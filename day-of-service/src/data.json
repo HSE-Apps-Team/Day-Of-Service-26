@@ -1,3 +1,39 @@
 {
-    "a":"b"
+    "objects": [
+        {
+            "Title":"Mathematics",
+            "Teacher":"Turner Price",
+            "Period":"1",
+            "Location":"F251",
+            "Age Group":"k"
+        },
+        {
+            "Title":"Science",
+            "Teacher":"John Doe",
+            "Period":"1",
+            "Location":"B132",
+            "Age Group":"k"
+        },
+        {
+            "Title":"English",
+            "Teacher":"Jane Smith",
+            "Period":"1",
+            "Location":"C200",
+            "Age Group":"2"
+        },
+        {
+            "Title":"History",
+            "Teacher":"Robert Johnson",
+            "Period":"4",
+            "Location":"A150",
+            "Age Group":"6"
+        },
+        {
+            "Title":"Art",
+            "Teacher":"Emily Davis",
+            "Period":"5",
+            "Location":"D300",
+            "Age Group":"12"
+        }
+    ]
 }

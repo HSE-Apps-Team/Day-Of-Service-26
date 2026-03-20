@@ -8,11 +8,8 @@ import {
   InputGroup,
   SegmentGroup,
   Text,
-  Grid,
-  GridItem,
   ScrollArea,
   Stack,
-  StackSeparator
 } from "@chakra-ui/react"
 import { LuSearch } from "react-icons/lu"
 import "./App.css"
@@ -24,6 +21,7 @@ type DataItem = {
   Period: string
   Location: string
   "Age Group": string
+  Description?: string
 }
 // `data.json` is an array of objects with lowercase keys (title, teacher, period, etc.).
 // Map it to the `DataItem` shape the UI expects and normalize `period` to a string.
@@ -36,6 +34,7 @@ type RawItem = {
   location: string
   age_group: string
   max_students?: string
+  description?: string
 }
 
 const rawRecords = data as RawItem[]
@@ -45,6 +44,7 @@ const records: DataItem[] = rawRecords.map((d) => ({
   Period: String(d.period),
   Location: d.location,
   "Age Group": d.age_group,
+  Description: d.description,
 }))
 const periodOptions = [ ...Array.from(new Set(records.map((r) => r.Period)))]
 const ageGroupOptions = [
@@ -136,55 +136,23 @@ function App() {
         <Text mb="3">
           {filtered.length} result{filtered.length === 1 ? "" : "s"}
         </Text>
-        <Grid style={{ borderWidth: 1 }} templateColumns="repeat(3, 1fr)" gap={1}>
-           <GridItem colSpan={1}  width="100%" style={{borderTop: 0, borderLeft: 0, borderBottom: 0,  borderWidth: 1}}>
-            <Box h="20" justifyContent="center" alignItems="center" display="flex">
-             <Text>Activity Name</Text>
-             </Box>
-           </GridItem>
-           <GridItem colSpan={1} width="100%" style={{borderTop: 0, borderLeft: 0, borderBottom: 0,  borderWidth: 1}}>
-             <Box h="20" justifyContent="center" alignItems="center" display="flex">
-             <Text>Period</Text>
-             </Box>
-           </GridItem>
-          <GridItem colSpan={1} width="100%" style={{borderWidth: 0}}>
-             <Box h="20" justifyContent="center" alignItems="center" display="flex">
-            <Text>Teacher Name</Text>
-             </Box>
-          </GridItem>
-        </Grid>
-   <ScrollArea.Root height="400px" style={{ borderWidth: 1, marginTop: 10, padding: 10, borderRadius: 5, marginBottom: 20}}>
+   <ScrollArea.Root height="400px" style={{marginTop: 10, padding: 10, marginBottom: 20}}>
             <ScrollArea.Viewport>
               <ScrollArea.Content>
         <Stack
       style={{
         
       }}
-
-      separator={<StackSeparator />}
     >
         {filtered.length === 0 ? (
           <Text color="gray.500">No matching entries.</Text>
         ) : (
           filtered.map((item, index) => (
-            <Grid 
-            key={item.Title + item.Teacher + item.Period + index}
-            style={{ borderWidth: 0}} templateColumns="repeat(3, 1fr)" gap={1}>           <GridItem colSpan={1}  width="100%" style={{borderTop: 0, borderLeft: 0, borderBottom: 0,  borderWidth: 1}}>
-             <Box h="20" justifyContent="center" alignItems="center" display="flex">
-             <Text>{item.Title}</Text>
-             </Box>
-           </GridItem>
-           <GridItem colSpan={1} width="100%" style={{borderTop: 0, borderLeft: 0, borderBottom: 0,  borderWidth: 1}}>
-             <Box h="20" justifyContent="center" alignItems="center" display="flex">
-             <Text>{item.Period}</Text>
-             </Box>
-           </GridItem>
-          <GridItem colSpan={1} width="100%" style={{}}>
-             <Box h="20" justifyContent="center" alignItems="center" display="flex">
-             <Text>{item.Teacher}</Text>
-             </Box>
-           </GridItem>
-         </Grid>
+                <Box style={{ display: "flex", backgroundColor: "white", color: "black", borderRadius: "8px", justifyContent: "space-between", padding: "10px" }}>
+                <Text>Period {item.Period}</Text>
+                <Text>{item.Title}</Text>
+                <Text>{item.Teacher}</Text>
+                </Box>
           ))
         )}
         </Stack>

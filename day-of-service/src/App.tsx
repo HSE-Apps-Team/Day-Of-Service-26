@@ -10,6 +10,9 @@ import {
   Text,
   ScrollArea,
   Stack,
+  Dialog,
+  Portal,
+  CloseButton,
 } from "@chakra-ui/react"
 import { LuSearch } from "react-icons/lu"
 import "./App.css"
@@ -22,6 +25,7 @@ type DataItem = {
   Location: string
   "Age Group": string
   Description?: string
+  Other?: string 
 }
 // `data.json` is an array of objects with lowercase keys (title, teacher, period, etc.).
 // Map it to the `DataItem` shape the UI expects and normalize `period` to a string.
@@ -45,6 +49,7 @@ const records: DataItem[] = rawRecords.map((d) => ({
   Location: d.location,
   "Age Group": d.age_group,
   Description: d.description,
+  Other: d.other_instructors || "None",
 }))
 const periodOptions = [ ...Array.from(new Set(records.map((r) => r.Period)))]
 const ageGroupOptions = [
@@ -54,9 +59,15 @@ const ageGroupOptions = [
 
 function App() {
   const [query, setQuery] = useState("")
+  const [descriptionVisible, setDescriptionVisible] = useState(false)
+  const [selectedItem, setSelectedItem] = useState<DataItem | null>(null)
   const [period, setPeriod] = useState("1")
   const [ageGroup, setAgeGroup] = useState("hs")
 
+  const selectItem = (item: DataItem) => {
+    setSelectedItem(item)
+    setDescriptionVisible(true)
+  }
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase()
 
@@ -148,7 +159,12 @@ function App() {
           <Text color="gray.500">No matching entries.</Text>
         ) : (
           filtered.map((item, index) => (
-                <Box style={{ display: "flex", backgroundColor: "white", color: "black", borderRadius: "8px", justifyContent: "space-between", padding: "10px" }}>
+                <Box style={{ display: "flex", backgroundColor: "white", color: "black", borderRadius: "8px", justifyContent: "space-between", padding: "10px"}}
+                  onClick={() => {selectItem(item)}}
+            _hover={{
+            bg: "#828282ff",
+            cursor: "pointer",
+                 }}>
                 <Text>Period {item.Period}</Text>
                 <Text>{item.Title}</Text>
                 <Text>{item.Teacher}</Text>
@@ -161,7 +177,39 @@ function App() {
      <ScrollArea.Scrollbar />
           </ScrollArea.Root>
       </Box>
-      
+      <Dialog.Root open={descriptionVisible}
+      placement={"center"} 
+      onInteractOutside={() => {setDescriptionVisible(false)}}
+      onEscapeKeyDown={()=> {setDescriptionVisible(false)}}
+      size={"lg"}
+      >
+      <Portal>
+        <Dialog.Positioner>
+          <Dialog.Backdrop />
+          <Dialog.Content >
+            <Dialog.Header>
+              <Dialog.Title>{selectedItem?.Title}</Dialog.Title>
+            </Dialog.Header>
+            <Dialog.Body>
+              {selectedItem && (
+                <>
+                <Text fontSize={20} marginBottom={10}>No description Available.</Text>
+                <Text marginBottom={1}>Host's Name: {selectedItem.Teacher}</Text>
+                <Text marginBottom={1}>Department: {null}</Text>
+                <Text marginBottom={2}>Location: {selectedItem.Location}</Text>
+                <Text>Other Teacher's Involved: {selectedItem.Other}</Text>
+                </>
+              )}
+            </Dialog.Body>
+            <Dialog.Footer>
+            </Dialog.Footer>
+            <Dialog.CloseTrigger asChild>
+              <CloseButton size="sm" onClick={() => setDescriptionVisible(false)} />
+            </Dialog.CloseTrigger>
+          </Dialog.Content>
+        </Dialog.Positioner>
+      </Portal>
+    </Dialog.Root>
     </>
   )
 }

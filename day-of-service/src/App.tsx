@@ -159,12 +159,13 @@ function App() {
           <Text color="gray.500">No matching entries.</Text>
         ) : (
           filtered.map((item, index) => (
-                <Box style={{ display: "flex", backgroundColor: "white", color: "black", borderRadius: "8px", justifyContent: "space-between", padding: "10px"}}
-                  onClick={() => {selectItem(item)}}
+                <Box 
+            onClick={() => {selectItem(item)}}
             _hover={{
-            bg: "#828282ff",
             cursor: "pointer",
-                 }}>
+                 }}
+            style={{ display: "flex", borderColor: "#b01f1fff", borderWidth: 1, backgroundColor: "#bababaff", color: "black", borderRadius: "8px", justifyContent: "space-between", padding: "10px"}}
+                 >
                 <Text>Period {item.Period}</Text>
                 <Text>{item.Title}</Text>
                 <Text>{item.Teacher}</Text>

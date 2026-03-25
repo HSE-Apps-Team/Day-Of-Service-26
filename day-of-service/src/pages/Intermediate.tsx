@@ -83,11 +83,11 @@ export default function Intermediate() {
 
       if (!q) return true
       return (
-        item.Title.toLowerCase().includes(q) ||
-        item.Teacher.toLowerCase().includes(q) ||
-        item.Location.toLowerCase().includes(q) ||
-        item.Period.toLowerCase().includes(q) ||
-        item["Age Group"].toLowerCase().includes(q)
+        item.Title?.toLowerCase().includes(q) ||
+        item.Teacher?.toLowerCase().includes(q) ||
+        item.Location?.toLowerCase().includes(q) ||
+        item.Period?.toLowerCase().includes(q) ||
+        item["Age Group"]?.toLowerCase().includes(q)
       )
     })
   }, [query, period, ageGroup])

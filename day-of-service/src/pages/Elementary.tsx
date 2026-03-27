@@ -16,7 +16,6 @@ import {
   Button,
 } from "@chakra-ui/react"
 import { LuSearch } from "react-icons/lu"
-import "../App.css"
 import data from "../data.json"
 import { RiArrowLeftLine } from "react-icons/ri"
 import { useScreenContext } from "../contexts/ScreenContext"

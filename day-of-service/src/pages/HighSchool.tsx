@@ -1,4 +1,5 @@
-import { useMemo, useState } from "react"
+import { useMemo, useState, useContext } from "react"
+import { ThemeContext } from "../contexts/themeContext"
 import hseLogo from "../assets/hseLogo.png"
 import {
   Box,
@@ -60,6 +61,7 @@ const ageGroupOptions = [
 ]
 
 export default function HighSchool() {
+  const theme = useContext(ThemeContext).theme.colors
   const { changeScreen } = useScreenContext();
   const [query, setQuery] = useState("")
   const [descriptionVisible, setDescriptionVisible] = useState(false)
@@ -94,7 +96,7 @@ export default function HighSchool() {
 
   return (
     <>
-    <Container backgroundColor="gray" padding="4" borderRadius="8px" mt="4">
+    <Container backgroundColor={theme.background} padding="4" borderRadius="8px" mt="4">
     <Container style={{  display: "flex", flexDirection: "row"}}>
     <Button colorPalette="teal" variant="outline" width="100px" mb="4" onClick={() => changeScreen("home")}>
         <RiArrowLeftLine/>Home

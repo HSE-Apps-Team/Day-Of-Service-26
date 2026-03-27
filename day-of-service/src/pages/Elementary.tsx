@@ -1,4 +1,4 @@
-import { useMemo, useState } from "react"
+import { useContext, useMemo, useState } from "react"
 import hseLogo from "../assets/hseLogo.png"
 import {
   Box,
@@ -20,6 +20,7 @@ import "../App.css"
 import data from "../data.json"
 import { RiArrowLeftLine } from "react-icons/ri"
 import { useScreenContext } from "../contexts/ScreenContext"
+import { ThemeContext } from "../contexts/themeContext"
 type DataItem = {
   Title: string
   Teacher: string
@@ -60,6 +61,7 @@ const ageGroupOptions = [
 ]
 
 export default function Elementary() {
+  const theme = useContext(ThemeContext).theme.colors
   const { changeScreen } = useScreenContext();
   const [query, setQuery] = useState("")
   const [descriptionVisible, setDescriptionVisible] = useState(false)

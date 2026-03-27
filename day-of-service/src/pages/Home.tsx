@@ -12,8 +12,11 @@ import {
 }from "@chakra-ui/react"
 import { useScreenContext } from "../contexts/ScreenContext"
 import hseLogo from "../assets/hseLogo.png"
+import { ThemeContext } from "../contexts/themeContext";
+import { useContext } from "react";
 
 export default function Home() {
+    const theme = useContext(ThemeContext).theme.colors
     const { changeScreen } = useScreenContext();
     return (
         <>

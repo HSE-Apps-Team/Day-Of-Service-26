@@ -96,7 +96,7 @@ export default function HighSchool() {
 
   return (
     <>
-    <Container backgroundColor={theme.background} padding="4" borderRadius="8px" mt="4">
+    <Container padding="4" borderRadius="8px" mt="4">
     <Container style={{  display: "flex", flexDirection: "row"}}>
     <Button colorPalette="teal" variant="outline" width="100px" mb="4" onClick={() => changeScreen("home")}>
         <RiArrowLeftLine/>Home

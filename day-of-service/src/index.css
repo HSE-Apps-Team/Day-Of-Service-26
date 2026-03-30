@@ -94,3 +94,11 @@ i {
     background-color: var(--background-secondary);
     color: var(--text-primary);
 }
+
+.item {
+    background-color: var(--background-secondary);
+    color: var(--text-primary);
+}
+.item:hover {
+    background-color: var(--accent-background);
+}

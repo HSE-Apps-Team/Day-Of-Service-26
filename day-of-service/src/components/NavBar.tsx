@@ -18,7 +18,7 @@ const Navbar = () => (
                 }}
               >
                 <Image rounded="md" style={{ width: "100px" }} src={hseLogo} alt="HSE Logo" />
-                <Text style={{ flex: 1 }}>HSE Day of Service App</Text>
+                <Text style={{ flex: 1 }}>Hamilton Southeastern Day of Service</Text>
                 <Text width="80px"></Text>
     </Container>
 )

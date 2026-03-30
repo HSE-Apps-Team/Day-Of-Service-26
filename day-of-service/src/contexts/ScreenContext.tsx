@@ -1,4 +1,4 @@
-import { createContext, useContext, useState } from "react";
+import { createContext, useContext, useState, useEffect } from "react";
 import type { ReactNode } from "react";
 
 type ScreenContextType = {
@@ -17,9 +17,29 @@ const ScreenContext = createContext<ScreenContextType>({
 
 export const ScreenProvider = ({ children }: { children: ReactNode }) => {
     const [currentScreen, setCurrentScreen] = useState("home");
-    const [theme, setTheme] = useState<"light" | "dark">("light");
+    const [theme, setTheme] = useState<"light" | "dark">(() => {
+        try {
+            const saved = typeof window !== 'undefined' ? localStorage.getItem('theme') : null;
+            if (saved === 'light' || saved === 'dark') return saved;
+            if (typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) return 'dark';
+        } catch (e) {
+            // ignore - fallback to default
+        }
+        return 'light';
+    });
+
     const changeScreen = (screen: string) => setCurrentScreen(screen);
-    const toggleTheme = () => setTheme(theme === "light" ? "dark" : "light");
+    const toggleTheme = () => setTheme((prev) => (prev === "light" ? "dark" : "light"));
+
+    // Keep the document's data-theme attribute in sync with our theme state
+    useEffect(() => {
+        try {
+            document.documentElement.setAttribute('data-theme', theme);
+            localStorage.setItem('theme', theme);
+        } catch (e) {
+            // ignore errors (e.g., SSR or localStorage disabled)
+        }
+    }, [theme]);
     return (
         <ScreenContext.Provider value={{ theme, currentScreen, changeScreen, toggleTheme }}>
             {children}

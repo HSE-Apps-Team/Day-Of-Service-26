@@ -32,7 +32,6 @@ type DataItem = {
 // `data.json` is an array of objects with lowercase keys (title, teacher, period, etc.).
 // Map it to the `DataItem` shape the UI expects and normalize `period` to a string.
 type RawItem = {
-  session_id: string
   teacher: string
   other_instructors: string | null
   period: number | string
@@ -42,7 +41,7 @@ type RawItem = {
   max_students?: string
   description?: string
 }
-
+console.log(data); // Log the raw data to verify its structure
 const rawRecords = data as RawItem[]
 const records: DataItem[] = rawRecords.map((d) => ({
   Title: d.title,
@@ -155,7 +154,7 @@ export default function HighSchool() {
           <Text color="gray.500">No matching entries.</Text>
         ) : (
           filtered.map((item, index) => (
-                <Box 
+                <Box key={index}
             onClick={() => {selectItem(item)}}
             _hover={{
             cursor: "pointer",
@@ -190,9 +189,8 @@ export default function HighSchool() {
             <Dialog.Body>
               {selectedItem && (
                 <>
-                <Text fontSize={20} marginBottom={10}>No description Available.</Text>
+                <Text fontSize={20} marginBottom={10}>{selectedItem.Description || "No description available."}</Text>
                 <Text marginBottom={1}>Host's Name: {selectedItem.Teacher}</Text>
-                <Text marginBottom={1}>Department: {null}</Text>
                 <Text marginBottom={2}>Location: {selectedItem.Location}</Text>
                 <Text>Other Teacher's Involved: {selectedItem.Other}</Text>
                 </>

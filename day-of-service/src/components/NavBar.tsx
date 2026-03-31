@@ -5,11 +5,16 @@ import {
     useMediaQuery,
 } from "@chakra-ui/react"
 import hseLogo from "../assets/hseLogo.png"
+import { useScreenContext } from "../contexts/ScreenContext";
 
 
 const Navbar = () => {
   // useMediaQuery returns an array of booleans; destructure the first value
   const [isSmall] = useMediaQuery(["(max-width: 550px)"]);
+  const { currentScreen } = useScreenContext();
+
+  // Show navbar if on desktop, or if on mobile and current screen is "home"
+  if (isSmall && currentScreen !== "home") return null;
 
   return (
     <Container

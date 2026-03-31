@@ -726,17 +726,6 @@
     "department": "ELA"
   },
   {
-    "teacher": "N. Brobst",
-    "other_instructors": "",
-    "title": "With Ken Link?",
-    "location": "",
-    "age_group": "",
-    "max_students": "",
-    "period": "1",
-    "description": "",
-    "department": "SCI"
-  },
-  {
     "teacher": "A. Broughton",
     "other_instructors": "",
     "title": "Pit Game",
@@ -4457,7 +4446,7 @@
   {
     "teacher": "B. Onufrock",
     "other_instructors": "",
-    "title": "Resource Current EXLRN students",
+    "title": "Resource - Current EXLRN students",
     "location": "B146",
     "age_group": "hs",
     "max_students": "",
@@ -4468,7 +4457,7 @@
   {
     "teacher": "B. Onufrock",
     "other_instructors": "",
-    "title": "Resource Current EXLRN students",
+    "title": "Resource - Current EXLRN students",
     "location": "B146",
     "age_group": "hs",
     "max_students": "",
@@ -4479,7 +4468,7 @@
   {
     "teacher": "B. Onufrock",
     "other_instructors": "",
-    "title": "Resource Current EXLRN students",
+    "title": "Resource - Current EXLRN students",
     "location": "B146",
     "age_group": "hs",
     "max_students": "",
@@ -4490,7 +4479,7 @@
   {
     "teacher": "B. Onufrock",
     "other_instructors": "",
-    "title": "Resource Current EXLRN students",
+    "title": "Resource - Current EXLRN students",
     "location": "B146",
     "age_group": "hs",
     "max_students": "",
@@ -4501,7 +4490,7 @@
   {
     "teacher": "B. Onufrock",
     "other_instructors": "",
-    "title": "Resource Current EXLRN students",
+    "title": "Resource - Current EXLRN students",
     "location": "B146",
     "age_group": "hs",
     "max_students": "",
@@ -4512,7 +4501,7 @@
   {
     "teacher": "B. Onufrock",
     "other_instructors": "",
-    "title": "Resource Current EXLRN students",
+    "title": "Resource - Current EXLRN students",
     "location": "B146",
     "age_group": "hs",
     "max_students": "",
@@ -5711,7 +5700,7 @@
   {
     "teacher": "A. Suriano",
     "other_instructors": "",
-    "title": "AP Research Prestentations",
+    "title": "AP Research Presentations",
     "location": "J233",
     "age_group": "hs",
     "max_students": "30",
@@ -5722,7 +5711,7 @@
   {
     "teacher": "A. Suriano",
     "other_instructors": "",
-    "title": "AP Research Prestentations",
+    "title": "AP Research Presentations",
     "location": "J233",
     "age_group": "hs",
     "max_students": "30",
@@ -5733,7 +5722,7 @@
   {
     "teacher": "A. Suriano",
     "other_instructors": "",
-    "title": "AP Research Prestentations",
+    "title": "AP Research Presentations",
     "location": "J233",
     "age_group": "hs",
     "max_students": "30",
@@ -5744,7 +5733,7 @@
   {
     "teacher": "A. Suriano",
     "other_instructors": "",
-    "title": "AP Research Prestentations",
+    "title": "AP Research Presentations",
     "location": "J233",
     "age_group": "hs",
     "max_students": "30",
@@ -5755,7 +5744,7 @@
   {
     "teacher": "A. Suriano",
     "other_instructors": "",
-    "title": "AP Research Prestentations",
+    "title": "AP Research Presentations",
     "location": "J233",
     "age_group": "hs",
     "max_students": "30",
@@ -5766,7 +5755,7 @@
   {
     "teacher": "A. Suriano",
     "other_instructors": "",
-    "title": "AP Research Prestentations",
+    "title": "AP Research Presentations",
     "location": "J233",
     "age_group": "hs",
     "max_students": "30",
@@ -6107,7 +6096,7 @@
   {
     "teacher": "B. Waller",
     "other_instructors": "",
-    "title": "Resource Current Students",
+    "title": "Resource - Current Students",
     "location": "B160",
     "age_group": "hs",
     "max_students": "10",
@@ -6118,7 +6107,7 @@
   {
     "teacher": "B. Waller",
     "other_instructors": "",
-    "title": "Resource Current Students",
+    "title": "Resource - Current Students",
     "location": "B160",
     "age_group": "hs",
     "max_students": "10",
@@ -6129,7 +6118,7 @@
   {
     "teacher": "B. Waller",
     "other_instructors": "",
-    "title": "Resource Current Students",
+    "title": "Resource - Current Students",
     "location": "B160",
     "age_group": "hs",
     "max_students": "10",
@@ -6140,7 +6129,7 @@
   {
     "teacher": "B. Waller",
     "other_instructors": "",
-    "title": "Resource Current Students",
+    "title": "Resource - Current Students",
     "location": "B160",
     "age_group": "hs",
     "max_students": "10",
@@ -6151,7 +6140,7 @@
   {
     "teacher": "B. Waller",
     "other_instructors": "",
-    "title": "Resource Current Students",
+    "title": "Resource - Current Students",
     "location": "B160",
     "age_group": "hs",
     "max_students": "10",
@@ -6162,7 +6151,7 @@
   {
     "teacher": "B. Waller",
     "other_instructors": "",
-    "title": "Resource Current Students",
+    "title": "Resource - Current Students",
     "location": "B160",
     "age_group": "hs",
     "max_students": "10",

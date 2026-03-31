@@ -92,7 +92,7 @@ export default function Elementary() {
                 <Button colorPalette="blue" variant="outline" width="100px" mb="4" onClick={() => changeScreen("home")}>
                     <RiArrowLeftLine/>Home
                   </Button>
-                  <Text mb="2" style={{justifyContent: "center", alignSelf: "center", flex: 1}}>Elementary Opportunities</Text>
+                  <Text mb="2" style={{justifyContent: "center", alignSelf: "center", flex: 1, fontFamily: "Poppins, sans-serif", fontSize: 20}}>Elementary Activities</Text>
                   <Text width="100px"></Text>
                   </Container>
       <Container style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", alignItems: "center" }}>
@@ -106,7 +106,7 @@ export default function Elementary() {
               />
             </InputGroup>
             </Box>
-              <Text mt="10">
+              <Text mt="10" style={{fontFamily: "Poppins, sans-serif", color: "#656565ff"}}>
                 {filtered.length} result{filtered.length === 1 ? "" : "s"}
               </Text>
             <Box mt="4" style={{width: "30%"}}>

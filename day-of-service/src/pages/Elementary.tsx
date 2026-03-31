@@ -18,7 +18,7 @@ import { LuSearch } from "react-icons/lu"
 import data from "../data.json"
 import { RiArrowLeftLine } from "react-icons/ri"
 import { useScreenContext } from "../contexts/ScreenContext"
-import EnrichingStudentsDirections from "../components/EnrichingStudentsDirections"
+import NotForSignup from "../components/NotForSignup"
 
 // FOR WHOEVER SEES THIS FILE WE ARE SORRY FOR THE HORRIBLE CODE BELOW, WE DID THIS IN A RUSH TO GET IT DONE IN TIME FOR THE DAY OF SERVICE.
 
@@ -191,7 +191,7 @@ const [isNarrow] = useMediaQuery(["(max-width: 850px)"]);
                 <Text marginBottom={1}>Host's Name: {selectedItem.Teacher}</Text>
                 <Text marginBottom={2}>Location: {selectedItem.Location}</Text>
                 <Text>Other Teacher's Involved: {selectedItem.Other}</Text>
-                <EnrichingStudentsDirections teacherName={selectedItem.Teacher} department={null} period={selectedItem.Period} activityName={selectedItem.Title} />
+                <NotForSignup />
                 </>
               )}
             </Dialog.Body>

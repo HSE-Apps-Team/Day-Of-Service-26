@@ -2559,7 +2559,7 @@
     "age_group": "hs",
     "max_students": "40",
     "period": "5",
-    "description": "hs HOSA Guest Speaker - Dr. Agarwal - Interim Chair and Professor of Biomedical Engineering & Informatics, Director at INDI",
+    "description": "HSE HOSA Guest Speaker - Dr. Agarwal - Interim Chair and Professor of Biomedical Engineering & Informatics, Director at INDI",
     "department": "MTH"
   },
   {
@@ -3533,7 +3533,7 @@
   {
     "teacher": "E. Mathias",
     "other_instructors": "",
-    "title": "Intro to hs Drama",
+    "title": "Intro to HSE Drama",
     "location": "Little Theatre",
     "age_group": "hs",
     "max_students": "15",
@@ -3544,7 +3544,7 @@
   {
     "teacher": "E. Mathias",
     "other_instructors": "",
-    "title": "Intro to hs Drama",
+    "title": "Intro to HSE Drama",
     "location": "Little Theatre",
     "age_group": "hs",
     "max_students": "15",
@@ -3555,7 +3555,7 @@
   {
     "teacher": "E. Mathias",
     "other_instructors": "",
-    "title": "Intro to hs Drama",
+    "title": "Intro to HSE Drama",
     "location": "Little Theatre",
     "age_group": "hs",
     "max_students": "15",
@@ -3566,7 +3566,7 @@
   {
     "teacher": "E. Mathias",
     "other_instructors": "",
-    "title": "Intro to hs Drama",
+    "title": "Intro to HSE Drama",
     "location": "Little Theatre",
     "age_group": "hs",
     "max_students": "15",
@@ -3577,7 +3577,7 @@
   {
     "teacher": "E. Mathias",
     "other_instructors": "",
-    "title": "Intro to hs Drama",
+    "title": "Intro to HSE Drama",
     "location": "Little Theatre",
     "age_group": "hs",
     "max_students": "15",
@@ -3588,7 +3588,7 @@
   {
     "teacher": "E. Mathias",
     "other_instructors": "",
-    "title": "Intro to hs Drama",
+    "title": "Intro to HSE Drama",
     "location": "Little Theatre",
     "age_group": "hs",
     "max_students": "15",
@@ -4066,7 +4066,7 @@
     "age_group": "elementary",
     "max_students": "35",
     "period": "1",
-    "description": "hs Ag Adventure - students will participate in rotating through four fun, hands-on agriculture stations learning about different agriculture commodities.",
+    "description": "HSE Ag Adventure - students will participate in rotating through four fun, hands-on agriculture stations learning about different agriculture commodities.",
     "department": "AP SCI"
   },
   {
@@ -4077,7 +4077,7 @@
     "age_group": "elementary",
     "max_students": "35",
     "period": "2",
-    "description": "hs Ag Adventure - students will participate in rotating through four fun, hands-on agriculture stations learning about different agriculture commodities.",
+    "description": "HSE Ag Adventure - students will participate in rotating through four fun, hands-on agriculture stations learning about different agriculture commodities.",
     "department": "AP SCI"
   },
   {
@@ -4088,7 +4088,7 @@
     "age_group": "elementary",
     "max_students": "35",
     "period": "3",
-    "description": "hs Ag Adventure - students will participate in rotating through four fun, hands-on agriculture stations learning about different agriculture commodities.",
+    "description": "HSE Ag Adventure - students will participate in rotating through four fun, hands-on agriculture stations learning about different agriculture commodities.",
     "department": "AP SCI"
   },
   {

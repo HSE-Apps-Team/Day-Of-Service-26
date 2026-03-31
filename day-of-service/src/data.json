@@ -1519,72 +1519,6 @@
   },
   {
     "teacher": "Davis",
-    "other_instructors": "J. Wolfe, Anna",
-    "title": "Board Games and Cards",
-    "location": "C124",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "1",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "J. Wolfe, Anna",
-    "title": "Board Games and Cards",
-    "location": "C124",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "2",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "J. Wolfe, Anna",
-    "title": "Board Games and Cards",
-    "location": "C124",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "3",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "J. Wolfe, Anna",
-    "title": "Applied PE for Transitions",
-    "location": "New Aux Gym",
-    "age_group": "hs",
-    "max_students": "40",
-    "period": "5",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "J. Wolfe, Anna",
-    "title": "Applied PE for Transitions",
-    "location": "New Aux Gym",
-    "age_group": "hs",
-    "max_students": "40",
-    "period": "6",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "J. Wolfe, Anna",
-    "title": "Sports Med Study / Help",
-    "location": "C124",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "7",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
     "other_instructors": "M. Self, L. Ann",
     "title": "Baking Cookies",
     "location": "F122",
@@ -3950,7 +3884,7 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts",
+    "other_instructors": "T. Younts, C. Nunez",
     "title": "Ag Adventure",
     "location": "A128",
     "age_group": "elementary",
@@ -3961,7 +3895,7 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts",
+    "other_instructors": "T. Younts, C. Nunez",
     "title": "Ag Adventure",
     "location": "A128",
     "age_group": "elementary",
@@ -3972,7 +3906,7 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts",
+    "other_instructors": "T. Younts, C. Nunez",
     "title": "Ag Adventure",
     "location": "A128",
     "age_group": "elementary",
@@ -3983,7 +3917,7 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts",
+    "other_instructors": "T. Younts, C. Nunez",
     "title": "Ag. CDE & LDE Prep",
     "location": "A128",
     "age_group": "hs",
@@ -3994,7 +3928,7 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts",
+    "other_instructors": "T. Younts, C. Nunez",
     "title": "Ag. CDE & LDE Prep",
     "location": "A128",
     "age_group": "hs",
@@ -4005,7 +3939,7 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts",
+    "other_instructors": "T. Younts, C. Nunez",
     "title": "Ag. CDE & LDE Prep",
     "location": "A128",
     "age_group": "hs",
@@ -4345,72 +4279,6 @@
     "department": "ELA"
   },
   {
-    "teacher": "C. Nunez",
-    "other_instructors": "",
-    "title": "Ag Adventure",
-    "location": "A128",
-    "age_group": "elementary",
-    "max_students": "35",
-    "period": "1",
-    "description": "",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "C. Nunez",
-    "other_instructors": "",
-    "title": "Ag Adventure",
-    "location": "A128",
-    "age_group": "elementary",
-    "max_students": "35",
-    "period": "2",
-    "description": "",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "C. Nunez",
-    "other_instructors": "",
-    "title": "Ag Adventure",
-    "location": "A128",
-    "age_group": "elementary",
-    "max_students": "35",
-    "period": "3",
-    "description": "",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "C. Nunez",
-    "other_instructors": "",
-    "title": "Dairy",
-    "location": "",
-    "age_group": "hs",
-    "max_students": "",
-    "period": "5",
-    "description": "",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "C. Nunez",
-    "other_instructors": "",
-    "title": "AG Mech",
-    "location": "",
-    "age_group": "hs",
-    "max_students": "",
-    "period": "6",
-    "description": "",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "C. Nunez",
-    "other_instructors": "",
-    "title": "AG Mech",
-    "location": "",
-    "age_group": "hs",
-    "max_students": "",
-    "period": "7",
-    "description": "",
-    "department": "AP SCI"
-  },
-  {
     "teacher": "B. Onufrock",
     "other_instructors": "",
     "title": "Resource - Current EXLRN students",
@@ -4814,7 +4682,7 @@
     "age_group": "elementary",
     "max_students": "30",
     "period": "1",
-    "description": "",
+    "description": "Simple Puppy & Kitty Origami Art Project",
     "department": "VA"
   },
   {
@@ -4825,7 +4693,7 @@
     "age_group": "elementary",
     "max_students": "30",
     "period": "2",
-    "description": "",
+    "description": "Simple Puppy & Kitty Origami Art Project",
     "department": "VA"
   },
   {
@@ -4836,7 +4704,7 @@
     "age_group": "elementary",
     "max_students": "30",
     "period": "3",
-    "description": "",
+    "description": "Simple Puppy & Kitty Origami Art Project",
     "department": "VA"
   },
   {
@@ -4847,7 +4715,7 @@
     "age_group": "intermediate",
     "max_students": "30",
     "period": "5",
-    "description": "We'll use photography and editing software to turn oursleves into a cartoon.",
+    "description": "Cartoon Yourself with Photo Editing. We'll use photography and editing software to turn ourselves into a cartoon.",
     "department": "VA"
   },
   {
@@ -4858,7 +4726,7 @@
     "age_group": "intermediate",
     "max_students": "30",
     "period": "6",
-    "description": "We'll use photography and editing software to turn oursleves into a cartoon.",
+    "description": "Cartoon Yourself with Photo Editing. We'll use photography and editing software to turn ourselves into a cartoon.",
     "department": "VA"
   },
   {
@@ -4869,82 +4737,82 @@
     "age_group": "intermediate",
     "max_students": "30",
     "period": "7",
-    "description": "We'll use photography and editing software to turn oursleves into a cartoon.",
+    "description": "Cartoon Yourself with Photo Editing. We'll use photography and editing software to turn ourselves into a cartoon.",
     "department": "VA"
   },
   {
     "teacher": "H. Renbarger",
-    "other_instructors": "",
-    "title": "Around the World: Interactive Crafts",
+    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
+    "title": "Around the World",
     "location": "B120",
     "age_group": "elementary",
     "max_students": "30",
     "period": "1",
-    "description": "",
+    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
     "department": "WL"
   },
   {
     "teacher": "H. Renbarger",
-    "other_instructors": "",
-    "title": "Around the World: Interactive Crafts",
+    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
+    "title": "Around the World",
     "location": "B120",
     "age_group": "elementary",
     "max_students": "30",
     "period": "2",
-    "description": "",
+    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
     "department": "WL"
   },
   {
     "teacher": "H. Renbarger",
-    "other_instructors": "",
-    "title": "Around the World: Interactive Crafts",
+    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
+    "title": "Around the World",
     "location": "B120",
     "age_group": "elementary",
     "max_students": "30",
     "period": "3",
-    "description": "",
+    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
     "department": "WL"
   },
   {
     "teacher": "H. Renbarger",
-    "other_instructors": "",
-    "title": "Around the World: Arts & Song",
+    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
+    "title": "Around the World",
     "location": "B120",
     "age_group": "intermediate",
     "max_students": "30",
     "period": "5",
-    "description": "",
+    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
     "department": "WL"
   },
   {
     "teacher": "H. Renbarger",
-    "other_instructors": "",
-    "title": "Around the World: Arts & Song",
+    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
+    "title": "Around the World",
     "location": "B120",
     "age_group": "intermediate",
     "max_students": "30",
     "period": "6",
-    "description": "",
+    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
     "department": "WL"
   },
   {
     "teacher": "H. Renbarger",
-    "other_instructors": "",
-    "title": "Around the World: Arts & Song",
+    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
+    "title": "Around the World",
     "location": "B120",
     "age_group": "intermediate",
     "max_students": "30",
     "period": "7",
-    "description": "",
+    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
     "department": "WL"
   },
   {
     "teacher": "A. Richardson",
     "other_instructors": "",
-    "title": "Fun With Chemistry! /MEGA Lab",
-    "location": "F116",
+    "title": "Fun With Chemistry",
+    "location": "F116/MEGA Lab",
     "age_group": "elementary",
-    "max_students": "27",
+    "max_students": "20-27",
     "period": "1",
     "description": "Fun With Chemistry!",
     "department": "SCI"
@@ -4952,10 +4820,10 @@
   {
     "teacher": "A. Richardson",
     "other_instructors": "",
-    "title": "Fun With Chemistry! /MEGA Lab",
-    "location": "F116",
+    "title": "Fun With Chemistry",
+    "location": "F116/MEGA Lab",
     "age_group": "elementary",
-    "max_students": "27",
+    "max_students": "20-27",
     "period": "2",
     "description": "Fun With Chemistry!",
     "department": "SCI"
@@ -4963,10 +4831,10 @@
   {
     "teacher": "A. Richardson",
     "other_instructors": "",
-    "title": "Fun With Chemistry! /MEGA Lab",
-    "location": "F116",
+    "title": "Fun With Chemistry",
+    "location": "F116/MEGA Lab",
     "age_group": "elementary",
-    "max_students": "27",
+    "max_students": "20-27",
     "period": "3",
     "description": "Fun With Chemistry!",
     "department": "SCI"
@@ -4974,10 +4842,10 @@
   {
     "teacher": "A. Richardson",
     "other_instructors": "",
-    "title": "Fun With Chemistry! /MEGA Lab",
-    "location": "F116",
+    "title": "Fun With Chemistry",
+    "location": "F116/MEGA Lab",
     "age_group": "intermediate",
-    "max_students": "27",
+    "max_students": "20-27",
     "period": "5",
     "description": "Fun With Chemistry!",
     "department": "SCI"
@@ -4985,10 +4853,10 @@
   {
     "teacher": "A. Richardson",
     "other_instructors": "",
-    "title": "Fun With Chemistry! /MEGA Lab",
-    "location": "F116",
+    "title": "Fun With Chemistry",
+    "location": "F116/MEGA Lab",
     "age_group": "intermediate",
-    "max_students": "27",
+    "max_students": "20-27",
     "period": "6",
     "description": "Fun With Chemistry!",
     "department": "SCI"
@@ -4996,10 +4864,10 @@
   {
     "teacher": "A. Richardson",
     "other_instructors": "",
-    "title": "Fun With Chemistry! /MEGA Lab",
-    "location": "F116",
+    "title": "Fun With Chemistry",
+    "location": "F116/MEGA Lab",
     "age_group": "intermediate",
-    "max_students": "27",
+    "max_students": "20-27",
     "period": "7",
     "description": "Fun With Chemistry!",
     "department": "SCI"
@@ -5540,8 +5408,8 @@
     "age_group": "hs",
     "max_students": "20",
     "period": "1",
-    "description": "Come enjoy the fun and play a game similar to Jeopardy.",
-    "department": "WL"
+    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
+    "department": "SS"
   },
   {
     "teacher": "D. White",
@@ -5551,8 +5419,8 @@
     "age_group": "hs",
     "max_students": "20",
     "period": "2",
-    "description": "Come enjoy the fun and play a game similar to Jeopardy.",
-    "department": "WL"
+    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
+    "department": "SS"
   },
   {
     "teacher": "D. White",
@@ -5562,8 +5430,8 @@
     "age_group": "hs",
     "max_students": "20",
     "period": "3",
-    "description": "Come enjoy the fun and play a game similar to Jeopardy.",
-    "department": "WL"
+    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
+    "department": "SS"
   },
   {
     "teacher": "D. White",
@@ -5573,8 +5441,8 @@
     "age_group": "intermediate",
     "max_students": "20",
     "period": "5",
-    "description": "Come enjoy the fun and play a game similar to Jeopardy.",
-    "department": "WL"
+    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
+    "department": "SS"
   },
   {
     "teacher": "D. White",
@@ -5584,8 +5452,8 @@
     "age_group": "intermediate",
     "max_students": "20",
     "period": "6",
-    "description": "Come enjoy the fun and play a game similar to Jeopardy.",
-    "department": "WL"
+    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
+    "department": "SS"
   },
   {
     "teacher": "D. White",
@@ -5595,73 +5463,73 @@
     "age_group": "intermediate",
     "max_students": "20",
     "period": "7",
-    "description": "Come enjoy the fun and play a game similar to Jeopardy.",
-    "department": "WL"
+    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
+    "department": "SS"
   },
   {
     "teacher": "S. Young",
-    "other_instructors": "",
+    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
     "title": "Handmade Cards & Crafts",
     "location": "A139",
     "age_group": "hs",
     "max_students": "30",
     "period": "1",
-    "description": "",
+    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
     "department": "AP SCI"
   },
   {
     "teacher": "S. Young",
-    "other_instructors": "",
+    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
     "title": "Handmade Cards & Crafts",
     "location": "A139",
     "age_group": "hs",
     "max_students": "30",
     "period": "2",
-    "description": "",
+    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
     "department": "AP SCI"
   },
   {
     "teacher": "S. Young",
-    "other_instructors": "",
+    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
     "title": "Handmade Cards & Crafts",
     "location": "A139",
     "age_group": "hs",
     "max_students": "30",
     "period": "3",
-    "description": "",
+    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
     "department": "AP SCI"
   },
   {
     "teacher": "S. Young",
-    "other_instructors": "",
+    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
     "title": "Handmade Cards & Crafts",
     "location": "A139",
     "age_group": "hs",
     "max_students": "30",
     "period": "5",
-    "description": "",
+    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
     "department": "AP SCI"
   },
   {
     "teacher": "S. Young",
-    "other_instructors": "",
+    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
     "title": "Handmade Cards & Crafts",
     "location": "A139",
     "age_group": "hs",
     "max_students": "30",
     "period": "6",
-    "description": "",
+    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
     "department": "AP SCI"
   },
   {
     "teacher": "S. Young",
-    "other_instructors": "",
+    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
     "title": "Handmade Cards & Crafts",
     "location": "A139",
     "age_group": "hs",
     "max_students": "30",
     "period": "7",
-    "description": "",
+    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
     "department": "AP SCI"
   },
   {
@@ -5863,72 +5731,6 @@
     "department": "EXLN"
   },
   {
-    "teacher": "L. Reed",
-    "other_instructors": "",
-    "title": "Simple Puppy & Kitty Origami Art Project",
-    "location": "H112",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "1",
-    "description": "Simple Puppy & Kitty Origami Art Project",
-    "department": "VA"
-  },
-  {
-    "teacher": "L. Reed",
-    "other_instructors": "",
-    "title": "Simple Puppy & Kitty Origami Art Project",
-    "location": "H112",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "2",
-    "description": "Simple Puppy & Kitty Origami Art Project",
-    "department": "VA"
-  },
-  {
-    "teacher": "L. Reed",
-    "other_instructors": "",
-    "title": "Simple Puppy & Kitty Origami Art Project",
-    "location": "H112",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "3",
-    "description": "Simple Puppy & Kitty Origami Art Project",
-    "department": "VA"
-  },
-  {
-    "teacher": "L. Reed",
-    "other_instructors": "",
-    "title": "Cartoon Yourself with Photo Editing",
-    "location": "J134",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "5",
-    "description": "Cartoon Yourself with Photo Editing. We'll use photography and editing software to turn ourselves into a cartoon.",
-    "department": "VA"
-  },
-  {
-    "teacher": "L. Reed",
-    "other_instructors": "",
-    "title": "Cartoon Yourself with Photo Editing",
-    "location": "J134",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "6",
-    "description": "Cartoon Yourself with Photo Editing. We'll use photography and editing software to turn ourselves into a cartoon.",
-    "department": "VA"
-  },
-  {
-    "teacher": "L. Reed",
-    "other_instructors": "",
-    "title": "Cartoon Yourself with Photo Editing",
-    "location": "J134",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "7",
-    "description": "Cartoon Yourself with Photo Editing. We'll use photography and editing software to turn ourselves into a cartoon.",
-    "department": "VA"
-  },
-  {
     "teacher": "A. Wills",
     "other_instructors": "",
     "title": "Transition Peer Tutoring",
@@ -6125,72 +5927,6 @@
     "period": "7",
     "description": "Paws & Wags: The English Lab Experience - Come meet Chief, Hank, Peggy, and Rocky—four incredibly friendly English Labs!",
     "department": "ELA"
-  },
-  {
-    "teacher": "D. White",
-    "other_instructors": "",
-    "title": "Quiz Bowl",
-    "location": "A111",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "1",
-    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
-    "department": "SS"
-  },
-  {
-    "teacher": "D. White",
-    "other_instructors": "",
-    "title": "Quiz Bowl",
-    "location": "A111",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "2",
-    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
-    "department": "SS"
-  },
-  {
-    "teacher": "D. White",
-    "other_instructors": "",
-    "title": "Quiz Bowl",
-    "location": "A111",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "3",
-    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
-    "department": "SS"
-  },
-  {
-    "teacher": "D. White",
-    "other_instructors": "",
-    "title": "Quiz Bowl",
-    "location": "A111",
-    "age_group": "intermediate",
-    "max_students": "20",
-    "period": "5",
-    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
-    "department": "SS"
-  },
-  {
-    "teacher": "D. White",
-    "other_instructors": "",
-    "title": "Quiz Bowl",
-    "location": "A111",
-    "age_group": "intermediate",
-    "max_students": "20",
-    "period": "6",
-    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
-    "department": "SS"
-  },
-  {
-    "teacher": "D. White",
-    "other_instructors": "",
-    "title": "Quiz Bowl",
-    "location": "A111",
-    "age_group": "intermediate",
-    "max_students": "20",
-    "period": "7",
-    "description": "Quiz Bowl - Come and experience a fun, academically-oriented game similar to Jeopardy. 8th graders can explore whether or not they wish to be in this fun club.",
-    "department": "SS"
   },
   {
     "teacher": "J. Purcell",
@@ -6391,72 +6127,6 @@
     "department": "VA"
   },
   {
-    "teacher": "H. Renbarger",
-    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
-    "title": "Around the World",
-    "location": "B120",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "1",
-    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
-    "department": "WL"
-  },
-  {
-    "teacher": "H. Renbarger",
-    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
-    "title": "Around the World",
-    "location": "B120",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "2",
-    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
-    "department": "WL"
-  },
-  {
-    "teacher": "H. Renbarger",
-    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
-    "title": "Around the World",
-    "location": "B120",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "3",
-    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
-    "department": "WL"
-  },
-  {
-    "teacher": "H. Renbarger",
-    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
-    "title": "Around the World",
-    "location": "B120",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "5",
-    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
-    "department": "WL"
-  },
-  {
-    "teacher": "H. Renbarger",
-    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
-    "title": "Around the World",
-    "location": "B120",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "6",
-    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
-    "department": "WL"
-  },
-  {
-    "teacher": "H. Renbarger",
-    "other_instructors": "M. Baker, T. Laughlin, B. Schroeder, J. Young",
-    "title": "Around the World",
-    "location": "B120",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "7",
-    "description": "AROUND THE WORLD~ARTS & CRAFTS/SONGS & DANCES",
-    "department": "WL"
-  },
-  {
     "teacher": "E. Pusti",
     "other_instructors": "K. Roberts",
     "title": "Honors Algebra Two Academic Help",
@@ -6523,138 +6193,6 @@
     "department": "MTH"
   },
   {
-    "teacher": "A. Richardson",
-    "other_instructors": "",
-    "title": "Fun With Chemistry",
-    "location": "F116/MEGA Lab",
-    "age_group": "elementary",
-    "max_students": "20-27",
-    "period": "1",
-    "description": "Fun With Chemistry!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "A. Richardson",
-    "other_instructors": "",
-    "title": "Fun With Chemistry",
-    "location": "F116/MEGA Lab",
-    "age_group": "elementary",
-    "max_students": "20-27",
-    "period": "2",
-    "description": "Fun With Chemistry!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "A. Richardson",
-    "other_instructors": "",
-    "title": "Fun With Chemistry",
-    "location": "F116/MEGA Lab",
-    "age_group": "elementary",
-    "max_students": "20-27",
-    "period": "3",
-    "description": "Fun With Chemistry!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "A. Richardson",
-    "other_instructors": "",
-    "title": "Fun With Chemistry",
-    "location": "F116/MEGA Lab",
-    "age_group": "intermediate",
-    "max_students": "20-27",
-    "period": "5",
-    "description": "Fun With Chemistry!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "A. Richardson",
-    "other_instructors": "",
-    "title": "Fun With Chemistry",
-    "location": "F116/MEGA Lab",
-    "age_group": "intermediate",
-    "max_students": "20-27",
-    "period": "6",
-    "description": "Fun With Chemistry!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "A. Richardson",
-    "other_instructors": "",
-    "title": "Fun With Chemistry",
-    "location": "F116/MEGA Lab",
-    "age_group": "intermediate",
-    "max_students": "20-27",
-    "period": "7",
-    "description": "Fun With Chemistry!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "S. Young",
-    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
-    "title": "Handmade Cards & Crafts",
-    "location": "A139",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "1",
-    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "S. Young",
-    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
-    "title": "Handmade Cards & Crafts",
-    "location": "A139",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "2",
-    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "S. Young",
-    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
-    "title": "Handmade Cards & Crafts",
-    "location": "A139",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "3",
-    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "S. Young",
-    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
-    "title": "Handmade Cards & Crafts",
-    "location": "A139",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "5",
-    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "S. Young",
-    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
-    "title": "Handmade Cards & Crafts",
-    "location": "A139",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "6",
-    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "S. Young",
-    "other_instructors": "M. Shetterly, C. Jacques, T. Hamilton",
-    "title": "Handmade Cards & Crafts",
-    "location": "A139",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "7",
-    "description": "Handmade Cards & Crafts for Hamilton Trace Nursing Home",
-    "department": "AP SCI"
-  },
-  {
     "teacher": "J. Taylor",
     "other_instructors": "",
     "title": "Learn How to Play Cards",
@@ -6921,10 +6459,10 @@
   {
     "teacher": "M. Dunham",
     "other_instructors": "",
-    "title": "Color By Numbers",
+    "title": "Color By Number",
     "location": "J224",
     "age_group": "elementary",
-    "max_students": "",
+    "max_students": "20",
     "period": "1",
     "description": "",
     "department": ""
@@ -6932,10 +6470,10 @@
   {
     "teacher": "M. Dunham",
     "other_instructors": "",
-    "title": "Color By Numbers",
+    "title": "Color By Number",
     "location": "J224",
     "age_group": "elementary",
-    "max_students": "",
+    "max_students": "20",
     "period": "2",
     "description": "",
     "department": ""
@@ -6943,10 +6481,10 @@
   {
     "teacher": "M. Dunham",
     "other_instructors": "",
-    "title": "Color By Numbers",
+    "title": "Color By Number",
     "location": "J224",
     "age_group": "elementary",
-    "max_students": "",
+    "max_students": "20",
     "period": "3",
     "description": "",
     "department": ""
@@ -6981,17 +6519,6 @@
     "age_group": "",
     "max_students": "60",
     "period": "3",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "D. Ferretti",
-    "other_instructors": "",
-    "title": "Escape Room",
-    "location": "Cafe D",
-    "age_group": "",
-    "max_students": "60",
-    "period": "4",
     "description": "",
     "department": ""
   },
@@ -7020,7 +6547,7 @@
   {
     "teacher": "A. Fritz",
     "other_instructors": "",
-    "title": "Etch-A-Sketch",
+    "title": "Etch-a-Sketch Masterpiece",
     "location": "H104",
     "age_group": "elementary",
     "max_students": "20",
@@ -7031,13 +6558,650 @@
   {
     "teacher": "A. Fritz",
     "other_instructors": "",
-    "title": "Etch-A-Sketch",
+    "title": "Etch-a-Sketch Masterpiece",
     "location": "H104",
     "age_group": "elementary",
     "max_students": "20",
     "period": "5",
     "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Bush",
+    "other_instructors": "",
+    "title": "College and Career Convos",
+    "location": "F104",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "2",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Bush",
+    "other_instructors": "",
+    "title": "College and Career Convos",
+    "location": "F104",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "3",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Bush",
+    "other_instructors": "",
+    "title": "College and Career Convos",
+    "location": "F104",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "5",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Bush",
+    "other_instructors": "",
+    "title": "College and Career Convos",
+    "location": "F104",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "6",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "F122",
+    "age_group": "elementary",
+    "max_students": "30",
+    "period": "1",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "F122",
+    "age_group": "elementary",
+    "max_students": "30",
+    "period": "2",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "F122",
+    "age_group": "elementary",
+    "max_students": "30",
+    "period": "3",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "F122",
+    "age_group": "intermediate",
+    "max_students": "30",
+    "period": "5",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "F122",
+    "age_group": "intermediate",
+    "max_students": "30",
+    "period": "6",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "F122",
+    "age_group": "intermediate",
+    "max_students": "30",
+    "period": "7",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Dunham",
+    "other_instructors": "",
+    "title": "Card Games",
+    "location": "J224",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "5",
+    "description": "UNO, Exploding Kittens, Euchre, Sushi Go",
+    "department": ""
+  },
+  {
+    "teacher": "M. Dunham",
+    "other_instructors": "",
+    "title": "Card Games",
+    "location": "J224",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "6",
+    "description": "UNO, Exploding Kittens, Euchre, Sushi Go",
+    "department": ""
+  },
+  {
+    "teacher": "M. Dunham",
+    "other_instructors": "",
+    "title": "Card Games",
+    "location": "J224",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "7",
+    "description": "UNO, Exploding Kittens, Euchre, Sushi Go",
+    "department": ""
+  },
+  {
+    "teacher": "A. Fritz",
+    "other_instructors": "",
+    "title": "AP Art Design Studio",
+    "location": "H104",
+    "age_group": "hs",
+    "max_students": "25",
+    "period": "2",
+    "description": "Current AP Students Only",
+    "department": ""
+  },
+  {
+    "teacher": "A. Fritz",
+    "other_instructors": "",
+    "title": "Foundations of Art & Design",
+    "location": "H104",
+    "age_group": "hs",
+    "max_students": "25",
+    "period": "3",
+    "description": "Current Students Enrolled",
+    "department": ""
+  },
+  {
+    "teacher": "A. Fritz",
+    "other_instructors": "",
+    "title": "AP Art Design Studio",
+    "location": "H104",
+    "age_group": "hs",
+    "max_students": "25",
+    "period": "6",
+    "description": "Current AP Students Only",
+    "department": ""
+  },
+  {
+    "teacher": "A. Fritz",
+    "other_instructors": "",
+    "title": "Foundations of Art & Design",
+    "location": "H104",
+    "age_group": "hs",
+    "max_students": "25",
+    "period": "7",
+    "description": "Current Students Enrolled",
+    "department": ""
+  },
+  {
+    "teacher": "G. Gastineau",
+    "other_instructors": "",
+    "title": "Weights",
+    "location": "E100",
+    "age_group": "hs",
+    "max_students": "50",
+    "period": "1",
+    "description": "Lifelong Weight Training",
+    "department": ""
+  },
+  {
+    "teacher": "G. Gastineau",
+    "other_instructors": "",
+    "title": "Weights",
+    "location": "E100",
+    "age_group": "hs",
+    "max_students": "50",
+    "period": "2",
+    "description": "Lifelong Weight Training",
+    "department": ""
+  },
+  {
+    "teacher": "G. Gastineau",
+    "other_instructors": "",
+    "title": "Weights",
+    "location": "E100",
+    "age_group": "hs",
+    "max_students": "50",
+    "period": "3",
+    "description": "Lifelong Weight Training",
+    "department": ""
+  },
+  {
+    "teacher": "G. Gastineau",
+    "other_instructors": "",
+    "title": "ACP Gov. Final Review",
+    "location": "J200",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "5",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "G. Gastineau",
+    "other_instructors": "",
+    "title": "ACP Gov. Final Review",
+    "location": "J200",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "6",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "G. Gastineau",
+    "other_instructors": "",
+    "title": "ACP Gov. Final Review",
+    "location": "J200",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "7",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "S. Hoffman",
+    "other_instructors": "",
+    "title": "Card Making",
+    "location": "J213",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "1",
+    "description": "for Down Syndrome Indiana",
+    "department": ""
+  },
+  {
+    "teacher": "S. Hoffman",
+    "other_instructors": "",
+    "title": "Card Making",
+    "location": "J213",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "2",
+    "description": "for Down Syndrome Indiana",
+    "department": ""
+  },
+  {
+    "teacher": "S. Hoffman",
+    "other_instructors": "",
+    "title": "Card Making",
+    "location": "J213",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "3",
+    "description": "for Down Syndrome Indiana",
+    "department": ""
+  },
+  {
+    "teacher": "S. Hoffman",
+    "other_instructors": "",
+    "title": "Card Making",
+    "location": "J213",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "5",
+    "description": "for Down Syndrome Indiana",
+    "department": ""
+  },
+  {
+    "teacher": "S. Hoffman",
+    "other_instructors": "",
+    "title": "Card Making",
+    "location": "J213",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "6",
+    "description": "for Down Syndrome Indiana",
+    "department": ""
+  },
+  {
+    "teacher": "S. Hoffman",
+    "other_instructors": "",
+    "title": "Card Making",
+    "location": "J213",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "7",
+    "description": "for Down Syndrome Indiana",
+    "department": ""
+  },
+  {
+    "teacher": "L. Mahan",
+    "other_instructors": "",
+    "title": "AP Review",
+    "location": "LGI",
+    "age_group": "hs",
+    "max_students": "",
+    "period": "1",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "L. Mahan",
+    "other_instructors": "",
+    "title": "AP Review",
+    "location": "LGI",
+    "age_group": "hs",
+    "max_students": "",
+    "period": "2",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "L. Mahan",
+    "other_instructors": "",
+    "title": "AP Review",
+    "location": "LGI",
+    "age_group": "hs",
+    "max_students": "",
+    "period": "3",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "L. Mahan",
+    "other_instructors": "",
+    "title": "AP Review",
+    "location": "LGI",
+    "age_group": "hs",
+    "max_students": "",
+    "period": "5",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "L. Mahan",
+    "other_instructors": "",
+    "title": "AP Review",
+    "location": "LGI",
+    "age_group": "hs",
+    "max_students": "",
+    "period": "6",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Maxwell",
+    "other_instructors": "D. Mullen",
+    "title": "Spring Show Rehearsal - Royal Vocals",
+    "location": "H125",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "1",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Maxwell",
+    "other_instructors": "D. Mullen",
+    "title": "Spring Show Rehearsal - Royal Singers",
+    "location": "H125",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "2",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Maxwell",
+    "other_instructors": "D. Mullen",
+    "title": "Spring Show Rehearsal - Royal Sensation",
+    "location": "H125",
+    "age_group": "hs",
+    "max_students": "45",
+    "period": "3",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Maxwell",
+    "other_instructors": "D. Mullen",
+    "title": "Spring Show Rehearsal - Royal Edition",
+    "location": "H125",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "5",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "K. Maxwell",
+    "other_instructors": "D. Mullen",
+    "title": "Open Choir Rehearsal",
+    "location": "H125",
+    "age_group": "hs",
+    "max_students": "70",
+    "period": "6",
+    "description": "students only",
+    "department": ""
+  },
+  {
+    "teacher": "K. Maxwell",
+    "other_instructors": "D. Mullen",
+    "title": "Spring Show Rehearsal - Accents",
+    "location": "H125",
+    "age_group": "hs",
+    "max_students": "30",
+    "period": "7",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "A. Shipley",
+    "other_instructors": "",
+    "title": "Clueless and AP Lit Exam Prep",
+    "location": "J105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "1",
+    "description": "Let's Watch Clueless and Prep for AP Lit Exam",
+    "department": ""
+  },
+  {
+    "teacher": "A. Shipley",
+    "other_instructors": "",
+    "title": "Clueless and AP Lit Exam Prep",
+    "location": "J105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "2",
+    "description": "Let's Watch Clueless and Prep for AP Lit Exam",
+    "department": ""
+  },
+  {
+    "teacher": "A. Shipley",
+    "other_instructors": "",
+    "title": "Clueless and AP Lit Exam Prep",
+    "location": "J105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "3",
+    "description": "Let's Watch Clueless and Prep for AP Lit Exam",
+    "department": ""
+  },
+  {
+    "teacher": "A. Shipley",
+    "other_instructors": "",
+    "title": "Clueless and AP Lit Exam Prep",
+    "location": "J105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "5",
+    "description": "Let's Watch Clueless and Prep for AP Lit Exam",
+    "department": ""
+  },
+  {
+    "teacher": "A. Shipley",
+    "other_instructors": "",
+    "title": "Clueless and AP Lit Exam Prep",
+    "location": "J105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "6",
+    "description": "Let's Watch Clueless and Prep for AP Lit Exam",
+    "department": ""
+  },
+  {
+    "teacher": "A. Shipley",
+    "other_instructors": "",
+    "title": "Clueless and AP Lit Exam Prep",
+    "location": "J105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "7",
+    "description": "Let's Watch Clueless and Prep for AP Lit Exam",
+    "department": ""
+  },
+  {
+    "teacher": "J. Tobias",
+    "other_instructors": "",
+    "title": "STAMP Language Exams",
+    "location": "A105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "1",
+    "description": "French, German, Spanish and ENL",
+    "department": ""
+  },
+  {
+    "teacher": "J. Tobias",
+    "other_instructors": "",
+    "title": "STAMP Language Exams",
+    "location": "A105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "2",
+    "description": "French, German, Spanish and ENL",
+    "department": ""
+  },
+  {
+    "teacher": "J. Tobias",
+    "other_instructors": "",
+    "title": "STAMP Language Exams",
+    "location": "A105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "3",
+    "description": "French, German, Spanish and ENL",
+    "department": ""
+  },
+  {
+    "teacher": "J. Tobias",
+    "other_instructors": "",
+    "title": "STAMP Language Exams",
+    "location": "A105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "5",
+    "description": "French, German, Spanish and ENL",
+    "department": ""
+  },
+  {
+    "teacher": "J. Tobias",
+    "other_instructors": "",
+    "title": "STAMP Language Exams",
+    "location": "A105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "6",
+    "description": "French, German, Spanish and ENL",
+    "department": ""
+  },
+  {
+    "teacher": "J. Tobias",
+    "other_instructors": "",
+    "title": "STAMP Language Exams",
+    "location": "A105",
+    "age_group": "hs",
+    "max_students": "28",
+    "period": "7",
+    "description": "French, German, Spanish and ENL",
+    "department": ""
+  },
+  {
+    "teacher": "S. Wiseman",
+    "other_instructors": "",
+    "title": "Lab/Academic Support",
+    "location": "B165/B167",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "1",
+    "description": "Current Students only",
+    "department": ""
+  },
+  {
+    "teacher": "S. Wiseman",
+    "other_instructors": "",
+    "title": "Lab/Academic Support",
+    "location": "B165/B167",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "2",
+    "description": "Current Students only",
+    "department": ""
+  },
+  {
+    "teacher": "S. Wiseman",
+    "other_instructors": "",
+    "title": "Lab/Academic Support",
+    "location": "B165/B167",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "3",
+    "description": "Current Students only",
+    "department": ""
+  },
+  {
+    "teacher": "S. Wiseman",
+    "other_instructors": "",
+    "title": "Lab/Academic Support",
+    "location": "B165/B167",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "5",
+    "description": "Current Students only",
+    "department": ""
+  },
+  {
+    "teacher": "S. Wiseman",
+    "other_instructors": "",
+    "title": "Lab/Academic Support",
+    "location": "B165/B167",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "6",
+    "description": "Current Students only",
+    "department": ""
+  },
+  {
+    "teacher": "S. Wiseman",
+    "other_instructors": "",
+    "title": "Lab/Academic Support",
+    "location": "B165/B167",
+    "age_group": "hs",
+    "max_students": "40",
+    "period": "7",
+    "description": "Current Students only",
     "department": ""
   }
-  
 ]

@@ -83,6 +83,7 @@ export default function Intermediate() {
       return (
         item.Title?.toLowerCase().includes(q) ||
         item.Teacher?.toLowerCase().includes(q) ||
+        item.Other?.toLowerCase().includes(q) ||
         item.Location?.toLowerCase().includes(q) ||
         item.Period?.toLowerCase().includes(q) ||
         item["Age Group"]?.toLowerCase().includes(q)

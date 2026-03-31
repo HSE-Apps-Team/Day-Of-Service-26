@@ -97,47 +97,34 @@ const [isNarrow] = useMediaQuery(["(max-width: 850px)"]);
         <RiArrowLeftLine/>Home
       </Button>
       <Text mb="2" style={{justifyContent: "center", alignSelf: "center", flex: 1, fontFamily: "Poppins, sans-serif", fontSize: 20 }}>Elementary Activities</Text>
-      <Text width={isNarrow ? "0" : "100px"}></Text>
-      </Container>
-      <Container style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", alignItems: isNarrow ? "stretch" : "center", flexDirection: isNarrow ? "column" : "row", gap: isNarrow ? "12px" : "0" }}>
-              <Box mt="4" style={{width: isNarrow ? "100%" : "30%"}}>
-                <Text mb="2">Filter by key words</Text> 
-            <InputGroup flex="1" style={{width: "100%"}}startElement={<LuSearch />}>
-              <Input
-                placeholder="Search by title, teacher, or location"
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-              />
-            </InputGroup>
-            </Box>
-              <Text mt={isNarrow ? "0" : "10"} style={{fontFamily: "Poppins, sans-serif", color: "#656565ff", width: isNarrow ? "100%" : "auto", textAlign: isNarrow ? "center" : "center", order: isNarrow ? 3 : 2}}>
-                {filtered.length} result{filtered.length === 1 ? "" : "s"}
-              </Text>
-            <Box mt="4" style={{width: isNarrow ? "100%" : "30%", order: isNarrow ? 2 : 3}}>
-                <Text mb="2">Filter by key words</Text> 
-            <InputGroup flex="1" style={{width: "100%"}}startElement={<LuSearch />}>
-              <Input
-                placeholder="Search by title, teacher, or location"
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-              />
-            </InputGroup>
-            </Box>
-              <Text mt="10" style={{fontFamily: "Poppins, sans-serif", color: "#656565ff"}}>
-                {filtered.length} result{filtered.length === 1 ? "" : "s"}
-              </Text>
-            <Box mt="4" style={{width: "30%"}}>
-              <Text mb="2">Filter by Period</Text>
-              <SegmentGroup.Root
-                defaultValue={"1"}
-                value={period}
-                onValueChange={(e) => e.value && setPeriod(e.value)}
-              >
-                <SegmentGroup.Indicator />
-                <SegmentGroup.Items items={periodOptions} />
-              </SegmentGroup.Root>
-            </Box>
+            <Text width={isNarrow ? "0" : "100px"}></Text>
             </Container>
+            <Container style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", alignItems: isNarrow ? "stretch" : "center", flexDirection: isNarrow ? "column" : "row", gap: isNarrow ? "12px" : "0" }}>
+                    <Box mt="4" style={{width: isNarrow ? "100%" : "30%"}}>
+                      <Text mb="2">Filter by key words</Text> 
+                  <InputGroup flex="1" style={{width: "100%"}}startElement={<LuSearch />}>
+                    <Input
+                      placeholder="Search by title, teacher, or location"
+                      value={query}
+                      onChange={(e) => setQuery(e.target.value)}
+                    />
+                  </InputGroup>
+                  </Box>
+                    <Text mt={isNarrow ? "0" : "10"} style={{fontFamily: "Poppins, sans-serif", color: "#656565ff", width: isNarrow ? "100%" : "auto", textAlign: isNarrow ? "center" : "center", order: isNarrow ? 3 : 2}}>
+                      {filtered.length} result{filtered.length === 1 ? "" : "s"}
+                    </Text>
+                  <Box mt="4" style={{width: isNarrow ? "100%" : "30%", order: isNarrow ? 2 : 3}}>
+                    <Text mb="2">Filter by Period</Text>
+                    <SegmentGroup.Root
+                      defaultValue={"1"}
+                      value={period}
+                      onValueChange={(e) => e.value && setPeriod(e.value)}
+                    >
+                      <SegmentGroup.Indicator />
+                      <SegmentGroup.Items items={periodOptions} />
+                    </SegmentGroup.Root>
+                  </Box>
+                  </Container>
       <Box mt="6">
    <ScrollArea.Root height="400px" style={{marginTop: 10, padding: 10, marginBottom: 20}}>
             <ScrollArea.Viewport>

@@ -12,6 +12,7 @@ import {
   Portal,
   CloseButton,
     Button,
+    useMediaQuery,
 } from "@chakra-ui/react"
 import { LuSearch } from "react-icons/lu"
 import data from "../data.json"
@@ -88,32 +89,32 @@ export default function Intermediate() {
       )
     })
   }, [query, period, ageGroup])
-
+const [isNarrow] = useMediaQuery(["(max-width: 850px)"]);
   return (
     <>
-      <Container padding="4" borderRadius="8px" mt="4">
-          <Container style={{  display: "flex", flexDirection: "row"}}>
-          <Button color="#01539c" borderColor={"#01539c"} variant="outline" width="100px" mb="4" onClick={() => changeScreen("home")}>
-              <RiArrowLeftLine/>Home
-            </Button>
-            <Text mb="2" style={{justifyContent: "center", alignSelf: "center", flex: 1, fontFamily: "Poppins, sans-serif", fontSize: 20}}>Intermediate Activities</Text>
-            <Text width="100px"></Text>
-            </Container>
-      <Container style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", alignItems: "center" }}>
-        <Box mt="4" style={{width: "30%"}}>
-          <Text mb="2">Filter by key words</Text> 
-      <InputGroup flex="1" style={{width: "100%"}}startElement={<LuSearch />}>
-        <Input
-          placeholder="Search by title, teacher, or location"
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-        />
-      </InputGroup>
-      </Box>
-        <Text mt="10" style={{fontFamily: "Poppins, sans-serif", color: "#656565ff"}}>
-          {filtered.length} result{filtered.length === 1 ? "" : "s"}
-        </Text>
-      <Box mt="4" style={{width: "30%"}}>
+    <Container padding="4" borderRadius="8px" mt="4">
+    <Container style={{  display: "flex", flexDirection: "row"}}>
+    <Button color="#01539c" borderColor={"#01539c"} variant="outline" width="100px" mb="4" onClick={() => changeScreen("home")}>
+        <RiArrowLeftLine/>Home
+      </Button>
+      <Text mb="2" style={{justifyContent: "center", alignSelf: "center", flex: 1, fontFamily: "Poppins, sans-serif", fontSize: 20 }}>Intermediate Activities</Text>
+      <Text width={isNarrow ? "0" : "100px"}></Text>
+      </Container>
+      <Container style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", alignItems: isNarrow ? "stretch" : "center", flexDirection: isNarrow ? "column" : "row", gap: isNarrow ? "12px" : "0" }}>
+              <Box mt="4" style={{width: isNarrow ? "100%" : "30%"}}>
+                <Text mb="2">Filter by key words</Text> 
+            <InputGroup flex="1" style={{width: "100%"}}startElement={<LuSearch />}>
+              <Input
+                placeholder="Search by title, teacher, or location"
+                value={query}
+                onChange={(e) => setQuery(e.target.value)}
+              />
+            </InputGroup>
+            </Box>
+              <Text mt={isNarrow ? "0" : "10"} style={{fontFamily: "Poppins, sans-serif", color: "#656565ff", width: isNarrow ? "100%" : "auto", textAlign: isNarrow ? "center" : "center", order: isNarrow ? 3 : 2}}>
+                {filtered.length} result{filtered.length === 1 ? "" : "s"}
+              </Text>
+            <Box mt="4" style={{width: isNarrow ? "100%" : "30%", order: isNarrow ? 2 : 3}}>
         <Text mb="2">Filter by Period</Text>
         <SegmentGroup.Root
           defaultValue={"1"}

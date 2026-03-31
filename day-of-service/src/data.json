@@ -3234,39 +3234,6 @@
     "department": "SCI"
   },
   {
-    "teacher": "K. Link",
-    "other_instructors": "",
-    "title": "Biology ILEARN Prep",
-    "location": "J211",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "5",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "K. Link",
-    "other_instructors": "",
-    "title": "Biology ILEARN Prep",
-    "location": "J211",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "6",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "K. Link",
-    "other_instructors": "",
-    "title": "Biology ILEARN Prep",
-    "location": "J211",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "7",
-    "description": "",
-    "department": "SCI"
-  },
-  {
     "teacher": "M. Loeffler",
     "other_instructors": "",
     "title": "Transition Peer Tutoring",
@@ -4840,204 +4807,6 @@
     "department": "SS"
   },
   {
-    "teacher": "B. Purcell",
-    "other_instructors": "",
-    "title": "Enhancement Through Organisation & Beautification",
-    "location": "F246",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "1",
-    "description": "",
-    "department": "BUS"
-  },
-  {
-    "teacher": "B. Purcell",
-    "other_instructors": "",
-    "title": "Enhancement Through Organisation & Beautification",
-    "location": "F246",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "2",
-    "description": "",
-    "department": "BUS"
-  },
-  {
-    "teacher": "B. Purcell",
-    "other_instructors": "",
-    "title": "Enhancement Through Organisation & Beautification",
-    "location": "F246",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "3",
-    "description": "",
-    "department": "BUS"
-  },
-  {
-    "teacher": "B. Purcell",
-    "other_instructors": "",
-    "title": "Legacy Book Comprisal",
-    "location": "F246",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "5",
-    "description": "",
-    "department": "BUS"
-  },
-  {
-    "teacher": "B. Purcell",
-    "other_instructors": "",
-    "title": "Legacy Book Comprisal",
-    "location": "F246",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "6",
-    "description": "",
-    "department": "BUS"
-  },
-  {
-    "teacher": "B. Purcell",
-    "other_instructors": "",
-    "title": "Legacy Book Comprisal",
-    "location": "F246",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "7",
-    "description": "",
-    "department": "BUS"
-  },
-  {
-    "teacher": "J. Purcell",
-    "other_instructors": "",
-    "title": "Set Up Make A Wish Card Making",
-    "location": "F222",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "1",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "J. Purcell",
-    "other_instructors": "",
-    "title": "Set Up Make A Wish Card Making",
-    "location": "F222",
-    "age_group": "elementary",
-    "max_students": "20",
-    "period": "2",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "J. Purcell",
-    "other_instructors": "",
-    "title": "Set Up Make A Wish Card Making",
-    "location": "F222",
-    "age_group": "elementary",
-    "max_students": "20",
-    "period": "3",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "J. Purcell",
-    "other_instructors": "",
-    "title": "Set Up Make A Wish Card Making",
-    "location": "F222",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "5",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "J. Purcell",
-    "other_instructors": "",
-    "title": "Set Up Make A Wish Card Making",
-    "location": "F222",
-    "age_group": "intermediate",
-    "max_students": "20",
-    "period": "6",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "J. Purcell",
-    "other_instructors": "",
-    "title": "Set Up Make A Wish Card Making",
-    "location": "F222",
-    "age_group": "intermediate",
-    "max_students": "20",
-    "period": "7",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "E. Pusti",
-    "other_instructors": "",
-    "title": "Honors Algebra Two Academic Help Session",
-    "location": "F129",
-    "age_group": "hs",
-    "max_students": "28",
-    "period": "1",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "E. Pusti",
-    "other_instructors": "",
-    "title": "Greeting Gratitude Cards",
-    "location": "F129",
-    "age_group": "hs",
-    "max_students": "28",
-    "period": "2",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "E. Pusti",
-    "other_instructors": "",
-    "title": "Greeting Gratitude Cards",
-    "location": "F129",
-    "age_group": "hs",
-    "max_students": "28",
-    "period": "3",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "E. Pusti",
-    "other_instructors": "",
-    "title": "Kickball!",
-    "location": "JV Softball Field",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "5",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "E. Pusti",
-    "other_instructors": "",
-    "title": "Kickball!",
-    "location": "JV Softball Field",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "6",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "E. Pusti",
-    "other_instructors": "",
-    "title": "Kickball!",
-    "location": "JV Softball Field",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "7",
-    "description": "",
-    "department": "MTH"
-  },
-  {
     "teacher": "L. Reed",
     "other_instructors": "",
     "title": "Simple Puppy & Kitty Origami Art Project",
@@ -5368,138 +5137,6 @@
     "department": "ELA"
   },
   {
-    "teacher": "L. Solomon",
-    "other_instructors": "",
-    "title": "Rain Garden",
-    "location": "F119",
-    "age_group": "hs",
-    "max_students": "5",
-    "period": "1",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "L. Solomon",
-    "other_instructors": "",
-    "title": "Rain Garden",
-    "location": "F119",
-    "age_group": "hs",
-    "max_students": "5",
-    "period": "2",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "L. Solomon",
-    "other_instructors": "",
-    "title": "Rain Garden",
-    "location": "F119",
-    "age_group": "hs",
-    "max_students": "5",
-    "period": "3",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "L. Solomon",
-    "other_instructors": "",
-    "title": "Rain Garden",
-    "location": "F119",
-    "age_group": "hs",
-    "max_students": "5",
-    "period": "5",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "L. Solomon",
-    "other_instructors": "",
-    "title": "Rain Garden",
-    "location": "F119",
-    "age_group": "hs",
-    "max_students": "5",
-    "period": "6",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "L. Solomon",
-    "other_instructors": "",
-    "title": "Rain Garden",
-    "location": "F119",
-    "age_group": "hs",
-    "max_students": "5",
-    "period": "7",
-    "description": "",
-    "department": "SCI"
-  },
-  {
-    "teacher": "K. Squires",
-    "other_instructors": "",
-    "title": "Board Games",
-    "location": "J226",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "1",
-    "description": "Board Games - Since I have access to over 100 board games from the school's old Board Game Club, we will have various options for new and seasoned table-top gamers.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Squires",
-    "other_instructors": "",
-    "title": "Board Games",
-    "location": "J226",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "2",
-    "description": "Board Games - Since I have access to over 100 board games from the school's old Board Game Club, we will have various options for new and seasoned table-top gamers.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Squires",
-    "other_instructors": "",
-    "title": "Board Games",
-    "location": "J226",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "3",
-    "description": "Board Games - Since I have access to over 100 board games from the school's old Board Game Club, we will have various options for new and seasoned table-top gamers.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Squires",
-    "other_instructors": "",
-    "title": "Board Games",
-    "location": "J226",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "5",
-    "description": "Board Games - Since I have access to over 100 board games from the school's old Board Game Club, we will have various options for new and seasoned table-top gamers.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Squires",
-    "other_instructors": "",
-    "title": "Board Games",
-    "location": "J226",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "6",
-    "description": "Board Games - Since I have access to over 100 board games from the school's old Board Game Club, we will have various options for new and seasoned table-top gamers.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Squires",
-    "other_instructors": "",
-    "title": "Board Games",
-    "location": "J226",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "7",
-    "description": "Board Games - Since I have access to over 100 board games from the school's old Board Game Club, we will have various options for new and seasoned table-top gamers.",
-    "department": "MTH"
-  },
-  {
     "teacher": "K. Stahl",
     "other_instructors": "",
     "title": "Around the World: Interactive Crafts",
@@ -5566,72 +5203,6 @@
     "department": "SS"
   },
   {
-    "teacher": "J. Strawhacker",
-    "other_instructors": "",
-    "title": "AP 2D support and work time",
-    "location": "J140B",
-    "age_group": "hs",
-    "max_students": "13",
-    "period": "1",
-    "description": "If you are in Miss Strawhacker's AP 2D class, you are encouraged to attend",
-    "department": "VA"
-  },
-  {
-    "teacher": "J. Strawhacker",
-    "other_instructors": "",
-    "title": "Marble, Stick and Yarn Painting",
-    "location": "J140B",
-    "age_group": "elementary",
-    "max_students": "15",
-    "period": "2",
-    "description": "",
-    "department": "VA"
-  },
-  {
-    "teacher": "J. Strawhacker",
-    "other_instructors": "",
-    "title": "Crochet Time for EXPERIENCED crocheters",
-    "location": "J140B",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "3",
-    "description": "",
-    "department": "VA"
-  },
-  {
-    "teacher": "J. Strawhacker",
-    "other_instructors": "",
-    "title": "Work time for current students to work on projects & H106",
-    "location": "J140B",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "5",
-    "description": "",
-    "department": "VA"
-  },
-  {
-    "teacher": "J. Strawhacker",
-    "other_instructors": "",
-    "title": "Expressive Dramatic Portrait Collage",
-    "location": "J140B",
-    "age_group": "hs",
-    "max_students": "20",
-    "period": "6",
-    "description": "",
-    "department": "VA"
-  },
-  {
-    "teacher": "J. Strawhacker",
-    "other_instructors": "",
-    "title": "Yarn Wall Decor Art",
-    "location": "J140B",
-    "age_group": "intermediate",
-    "max_students": "15",
-    "period": "7",
-    "description": "",
-    "department": "VA"
-  },
-  {
     "teacher": "A. Sturgill",
     "other_instructors": "",
     "title": "Movie: Moneyball",
@@ -5762,204 +5333,6 @@
     "period": "7",
     "description": "",
     "department": "ELA"
-  },
-  {
-    "teacher": "D. Taylor",
-    "other_instructors": "",
-    "title": "Paws & Wags : The English Lab Experience",
-    "location": "TBD",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "1",
-    "description": "Paws & Wags: The English Lab Experience - Come meet Chief, Hank, Peggy, and Rocky—four incredibly friendly English Labs with calm demeanors and loving personalities!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "D. Taylor",
-    "other_instructors": "",
-    "title": "Paws & Wags : The English Lab Experience",
-    "location": "TBD",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "2",
-    "description": "Paws & Wags: The English Lab Experience - Come meet Chief, Hank, Peggy, and Rocky—four incredibly friendly English Labs with calm demeanors and loving personalities!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "D. Taylor",
-    "other_instructors": "",
-    "title": "Paws & Wags : The English Lab Experience",
-    "location": "TBD",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "3",
-    "description": "Paws & Wags: The English Lab Experience - Come meet Chief, Hank, Peggy, and Rocky—four incredibly friendly English Labs with calm demeanors and loving personalities!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "D. Taylor",
-    "other_instructors": "",
-    "title": "Paws & Wags : The English Lab Experience",
-    "location": "TBD",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "5",
-    "description": "Paws & Wags: The English Lab Experience - Come meet Chief, Hank, Peggy, and Rocky—four incredibly friendly English Labs with calm demeanors and loving personalities!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "D. Taylor",
-    "other_instructors": "",
-    "title": "Paws & Wags : The English Lab Experience",
-    "location": "TBD",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "6",
-    "description": "Paws & Wags: The English Lab Experience - Come meet Chief, Hank, Peggy, and Rocky—four incredibly friendly English Labs with calm demeanors and loving personalities!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "D. Taylor",
-    "other_instructors": "",
-    "title": "Paws & Wags : The English Lab Experience",
-    "location": "TBD",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "7",
-    "description": "Paws & Wags: The English Lab Experience - Come meet Chief, Hank, Peggy, and Rocky—four incredibly friendly English Labs with calm demeanors and loving personalities!",
-    "department": "SCI"
-  },
-  {
-    "teacher": "J. Taylor",
-    "other_instructors": "",
-    "title": "Learn How to Play Cards",
-    "location": "F130",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "1",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "J. Taylor",
-    "other_instructors": "",
-    "title": "Learn How to Play Cards",
-    "location": "F130",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "2",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "J. Taylor",
-    "other_instructors": "",
-    "title": "Learn How to Play Cards",
-    "location": "F130",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "3",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "J. Taylor",
-    "other_instructors": "",
-    "title": "Learn How to Play Cards",
-    "location": "F130",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "5",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "J. Taylor",
-    "other_instructors": "",
-    "title": "Learn How to Play Cards",
-    "location": "F130",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "6",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "J. Taylor",
-    "other_instructors": "",
-    "title": "Learn How to Play Cards",
-    "location": "F130",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "7",
-    "description": "",
-    "department": "MTH"
-  },
-  {
-    "teacher": "S. Taylor",
-    "other_instructors": "",
-    "title": "Get Fed- Bible study and snacks",
-    "location": "A116",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "1",
-    "description": "",
-    "department": "WL"
-  },
-  {
-    "teacher": "S. Taylor",
-    "other_instructors": "",
-    "title": "Get Fed- Bible study and snacks",
-    "location": "A116",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "2",
-    "description": "",
-    "department": "WL"
-  },
-  {
-    "teacher": "S. Taylor",
-    "other_instructors": "",
-    "title": "Get Fed- Bible study and snacks",
-    "location": "A116",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "3",
-    "description": "",
-    "department": "WL"
-  },
-  {
-    "teacher": "S. Taylor",
-    "other_instructors": "",
-    "title": "Get Fed- Bible study and snacks",
-    "location": "A116",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "5",
-    "description": "",
-    "department": "WL"
-  },
-  {
-    "teacher": "S. Taylor",
-    "other_instructors": "",
-    "title": "Get Fed- Bible study and snacks",
-    "location": "A116",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "6",
-    "description": "",
-    "department": "WL"
-  },
-  {
-    "teacher": "S. Taylor",
-    "other_instructors": "",
-    "title": "Get Fed- Bible study and snacks",
-    "location": "A116",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "7",
-    "description": "",
-    "department": "WL"
   },
   {
     "teacher": "J. Torres",
@@ -6160,72 +5533,6 @@
     "department": "EXLN"
   },
   {
-    "teacher": "K. Webber",
-    "other_instructors": "",
-    "title": "Mini Ping Pong",
-    "location": "J229",
-    "age_group": "hs",
-    "max_students": "15-20",
-    "period": "1",
-    "description": "Mini Ping Pong - Come destress by playing some mini ping pong! It's just like ping pong, but on a mini table.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Webber",
-    "other_instructors": "",
-    "title": "Mini Ping Pong",
-    "location": "J229",
-    "age_group": "hs",
-    "max_students": "15-20",
-    "period": "2",
-    "description": "Mini Ping Pong - Come destress by playing some mini ping pong! It's just like ping pong, but on a mini table.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Webber",
-    "other_instructors": "",
-    "title": "Mini Ping Pong",
-    "location": "J229",
-    "age_group": "hs",
-    "max_students": "15-20",
-    "period": "3",
-    "description": "Mini Ping Pong - Come destress by playing some mini ping pong! It's just like ping pong, but on a mini table.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Webber",
-    "other_instructors": "",
-    "title": "Geometry Puzzles",
-    "location": "J229",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "5",
-    "description": "Geometry Puzzles - Love Geometry? Love Puzzles? Then you will love this session! Spend the period doing exciting and challenging Geometry puzzles.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Webber",
-    "other_instructors": "",
-    "title": "Geometry Puzzles",
-    "location": "J229",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "6",
-    "description": "Geometry Puzzles - Love Geometry? Love Puzzles? Then you will love this session! Spend the period doing exciting and challenging Geometry puzzles.",
-    "department": "MTH"
-  },
-  {
-    "teacher": "K. Webber",
-    "other_instructors": "",
-    "title": "Geometry Puzzles",
-    "location": "J229",
-    "age_group": "hs",
-    "max_students": "25",
-    "period": "7",
-    "description": "Geometry Puzzles - Love Geometry? Love Puzzles? Then you will love this session! Spend the period doing exciting and challenging Geometry puzzles.",
-    "department": "MTH"
-  },
-  {
     "teacher": "D. White",
     "other_instructors": "",
     "title": "Quiz Bowl",
@@ -6292,270 +5599,6 @@
     "department": "WL"
   },
   {
-    "teacher": "J. Williams",
-    "other_instructors": "",
-    "title": "Color a Smile: Early Childhood students work with",
-    "location": "A127",
-    "age_group": "elementary",
-    "max_students": "20-25",
-    "period": "1",
-    "description": "Color a Smile - students will learn about the organization and its mission to spread kindness and put a smile on someone's face who may be going through a tough time.",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "J. Williams",
-    "other_instructors": "",
-    "title": "Color a Smile: Early Childhood students work with",
-    "location": "A127",
-    "age_group": "elementary",
-    "max_students": "20-25",
-    "period": "2",
-    "description": "Color a Smile - students will learn about the organization and its mission to spread kindness and put a smile on someone's face who may be going through a tough time.",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "J. Williams",
-    "other_instructors": "",
-    "title": "Color a Smile: Early Childhood students work with",
-    "location": "A127",
-    "age_group": "elementary",
-    "max_students": "20-25",
-    "period": "3",
-    "description": "Color a Smile - students will learn about the organization and its mission to spread kindness and put a smile on someone's face who may be going through a tough time.",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "J. Williams",
-    "other_instructors": "",
-    "title": "Color a Smile",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "31",
-    "period": "5",
-    "description": "Color a Smile - students will learn about the organization and its mission to spread kindness and put a smile on someone's face who may be going through a tough time.",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "J. Williams",
-    "other_instructors": "",
-    "title": "Color a Smile",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "31",
-    "period": "6",
-    "description": "Color a Smile - students will learn about the organization and its mission to spread kindness and put a smile on someone's face who may be going through a tough time.",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "J. Williams",
-    "other_instructors": "",
-    "title": "Color a Smile",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "31",
-    "period": "7",
-    "description": "Color a Smile - students will learn about the organization and its mission to spread kindness and put a smile on someone's face who may be going through a tough time.",
-    "department": "AP SCI"
-  },
-  {
-    "teacher": "A. Wills",
-    "other_instructors": "",
-    "title": "Transition Peer Tutoring",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "1",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "A. Wills",
-    "other_instructors": "",
-    "title": "Transition Peer Tutoring",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "2",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "A. Wills",
-    "other_instructors": "",
-    "title": "Transition Peer Tutoring",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "3",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "A. Wills",
-    "other_instructors": "",
-    "title": "Transition Peer Tutoring",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "5",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "A. Wills",
-    "other_instructors": "",
-    "title": "Transition Peer Tutoring",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "6",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "A. Wills",
-    "other_instructors": "",
-    "title": "Transition Peer Tutoring",
-    "location": "A127",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "7",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "L. Wilson",
-    "other_instructors": "",
-    "title": "What is Peer Tutoring All About?",
-    "location": "B105",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "1",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "L. Wilson",
-    "other_instructors": "",
-    "title": "What is Peer Tutoring All About?",
-    "location": "B105",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "2",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "L. Wilson",
-    "other_instructors": "",
-    "title": "What is Peer Tutoring All About?",
-    "location": "B105",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "3",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "L. Wilson",
-    "other_instructors": "",
-    "title": "What is Peer Tutoring All About?",
-    "location": "B105",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "5",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "L. Wilson",
-    "other_instructors": "",
-    "title": "What is Peer Tutoring All About?",
-    "location": "B105",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "6",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "L. Wilson",
-    "other_instructors": "",
-    "title": "What is Peer Tutoring All About?",
-    "location": "B105",
-    "age_group": "hs",
-    "max_students": "3",
-    "period": "7",
-    "description": "",
-    "department": "EXLN"
-  },
-  {
-    "teacher": "N. Wiltshire",
-    "other_instructors": "",
-    "title": "Jigsaw Puzzles - Math is just a puzzle!",
-    "location": "F126",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "1",
-    "description": "Jigsaw Puzzles - Math is just a puzzle!",
-    "department": "MTH"
-  },
-  {
-    "teacher": "N. Wiltshire",
-    "other_instructors": "",
-    "title": "Jigsaw Puzzles - Math is just a puzzle!",
-    "location": "F126",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "2",
-    "description": "Jigsaw Puzzles - Math is just a puzzle!",
-    "department": "MTH"
-  },
-  {
-    "teacher": "N. Wiltshire",
-    "other_instructors": "",
-    "title": "Jigsaw Puzzles - Math is just a puzzle!",
-    "location": "F126",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "3",
-    "description": "Jigsaw Puzzles - Math is just a puzzle!",
-    "department": "MTH"
-  },
-  {
-    "teacher": "N. Wiltshire",
-    "other_instructors": "",
-    "title": "Jigsaw Puzzles",
-    "location": "F216",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "5",
-    "description": "Jigsaw Puzzles - Math is just a puzzle!",
-    "department": "MTH"
-  },
-  {
-    "teacher": "N. Wiltshire",
-    "other_instructors": "",
-    "title": "Jigsaw Puzzles",
-    "location": "F216",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "6",
-    "description": "Jigsaw Puzzles - Math is just a puzzle!",
-    "department": "MTH"
-  },
-  {
-    "teacher": "N. Wiltshire",
-    "other_instructors": "",
-    "title": "Jigsaw Puzzles",
-    "location": "F216",
-    "age_group": "hs",
-    "max_students": "30",
-    "period": "7",
-    "description": "Jigsaw Puzzles - Math is just a puzzle!",
-    "department": "MTH"
-  },
-  {
     "teacher": "S. Young",
     "other_instructors": "",
     "title": "Handmade Cards & Crafts",
@@ -6625,7 +5668,7 @@
     "teacher": "K. Squires",
     "other_instructors": "",
     "title": "Board Games",
-    "location": "J-226",
+    "location": "J226",
     "age_group": "hs",
     "max_students": "20-25",
     "period": "1",
@@ -6636,7 +5679,7 @@
     "teacher": "K. Squires",
     "other_instructors": "",
     "title": "Board Games",
-    "location": "J-226",
+    "location": "J226",
     "age_group": "hs",
     "max_students": "20-25",
     "period": "2",
@@ -6647,7 +5690,7 @@
     "teacher": "K. Squires",
     "other_instructors": "",
     "title": "Board Games",
-    "location": "J-226",
+    "location": "J226",
     "age_group": "hs",
     "max_students": "20-25",
     "period": "3",
@@ -6658,7 +5701,7 @@
     "teacher": "K. Squires",
     "other_instructors": "",
     "title": "Board Games",
-    "location": "J-226",
+    "location": "J226",
     "age_group": "hs",
     "max_students": "20-25",
     "period": "5",
@@ -6669,7 +5712,7 @@
     "teacher": "K. Squires",
     "other_instructors": "",
     "title": "Board Games",
-    "location": "J-226",
+    "location": "J226",
     "age_group": "hs",
     "max_students": "20-25",
     "period": "6",
@@ -6680,7 +5723,7 @@
     "teacher": "K. Squires",
     "other_instructors": "",
     "title": "Math Assistance",
-    "location": "J-226",
+    "location": "J226",
     "age_group": "hs",
     "max_students": "30",
     "period": "7",
@@ -7158,7 +6201,7 @@
     "max_students": "10-15",
     "period": "1",
     "description": "Setup - Make a Wish Card Making - Make a Wish Club",
-    "department": ""
+    "department": "SCI"
   },
   {
     "teacher": "J. Purcell",
@@ -7169,7 +6212,7 @@
     "max_students": "30",
     "period": "2",
     "description": "Make a Wish Card Making - Make a Wish Foundation",
-    "department": ""
+    "department": "SCI"
   },
   {
     "teacher": "J. Purcell",
@@ -7180,7 +6223,7 @@
     "max_students": "30",
     "period": "3",
     "description": "Make a Wish Card Making - Make a Wish Foundation",
-    "department": ""
+    "department": "SCI"
   },
   {
     "teacher": "J. Purcell",
@@ -7191,7 +6234,7 @@
     "max_students": "10-15",
     "period": "5",
     "description": "Setup - Make a Wish Card Making - Make a Wish Club",
-    "department": ""
+    "department": "SCI"
   },
   {
     "teacher": "J. Purcell",
@@ -7202,7 +6245,7 @@
     "max_students": "30",
     "period": "6",
     "description": "Make a Wish Card Making - Make a Wish Foundation",
-    "department": ""
+    "department": "SCI"
   },
   {
     "teacher": "J. Purcell",
@@ -7213,7 +6256,7 @@
     "max_students": "30",
     "period": "7",
     "description": "Make a Wish Card Making - Make a Wish Foundation",
-    "department": ""
+    "department": "SCI"
   },
   {
     "teacher": "B. Purcell",
@@ -7874,5 +6917,127 @@
     "period": "7",
     "description": "Rain Garden/Clearing Invasive Species",
     "department": "SCI"
+  },
+  {
+    "teacher": "M. Dunham",
+    "other_instructors": "",
+    "title": "Color By Numbers",
+    "location": "J224",
+    "age_group": "elementary",
+    "max_students": "",
+    "period": "1",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Dunham",
+    "other_instructors": "",
+    "title": "Color By Numbers",
+    "location": "J224",
+    "age_group": "elementary",
+    "max_students": "",
+    "period": "2",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Dunham",
+    "other_instructors": "",
+    "title": "Color By Numbers",
+    "location": "J224",
+    "age_group": "elementary",
+    "max_students": "",
+    "period": "3",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "D. Ferretti",
+    "other_instructors": "",
+    "title": "Escape Room",
+    "location": "Cafe D",
+    "age_group": "",
+    "max_students": "60",
+    "period": "1",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "D. Ferretti",
+    "other_instructors": "",
+    "title": "Escape Room",
+    "location": "Cafe D",
+    "age_group": "",
+    "max_students": "60",
+    "period": "2",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "D. Ferretti",
+    "other_instructors": "",
+    "title": "Escape Room",
+    "location": "Cafe D",
+    "age_group": "",
+    "max_students": "60",
+    "period": "3",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "D. Ferretti",
+    "other_instructors": "",
+    "title": "Escape Room",
+    "location": "Cafe D",
+    "age_group": "",
+    "max_students": "60",
+    "period": "4",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "D. Ferretti",
+    "other_instructors": "",
+    "title": "Escape Room",
+    "location": "Cafe D",
+    "age_group": "",
+    "max_students": "60",
+    "period": "5",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "D. Ferretti",
+    "other_instructors": "",
+    "title": "Escape Room",
+    "location": "Cafe D",
+    "age_group": "",
+    "max_students": "60",
+    "period": "6",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "A. Fritz",
+    "other_instructors": "",
+    "title": "Etch-A-Sketch",
+    "location": "H104",
+    "age_group": "elementary",
+    "max_students": "20",
+    "period": "1",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "A. Fritz",
+    "other_instructors": "",
+    "title": "Etch-A-Sketch",
+    "location": "H104",
+    "age_group": "elementary",
+    "max_students": "20",
+    "period": "5",
+    "description": "",
+    "department": ""
   }
+  
 ]

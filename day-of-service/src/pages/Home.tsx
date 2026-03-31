@@ -12,11 +12,7 @@ export default function Home() {
     const [isNarrow] = useMediaQuery(["(max-width: 850px)"]);
     return (
         <>
-        <Text style={{ fontFamily: "Poppins, sans-serif", padding: 20, marginBottom: 50, fontSize: 14, color: "#656565ff", justifyContent: "center", alignSelf: "center" }}>Day of Service is a special day where students in HSE Schools participate in a plethora of unique activities at Hamilton Southeastern Highschool.
-            {isNarrow && (
-                <Text style={{ color: "red", fontWeight: "bold" }}>PLEASE USE DESKTOP/LAPTOP, NOT MOBILE</Text>
-            )}
-        </Text>
+        <Text style={{ fontFamily: "Poppins, sans-serif", padding: 20, marginBottom: 50, fontSize: 14, color: "#656565ff", justifyContent: "center", alignSelf: "center" }}>Day of Service is a special day where students in HSE Schools participate in a plethora of unique activities at Hamilton Southeastern Highschool.</Text>
         <Container style={{ display: "flex", justifyContent: isNarrow ? "center" : "space-between", flexWrap: "wrap", flexDirection: isNarrow ? "column" : "row", alignItems: isNarrow ? "center" : "stretch" }}>
         
         

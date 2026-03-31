@@ -139,7 +139,7 @@ export default function HighSchool() {
             _hover={{
             cursor: "pointer",
                  }}
-            style={{ display: "flex", borderColor: "#0a569e", borderWidth: 1, color: "black", borderRadius: "8px", justifyContent: "space-between", padding: "10px"}}
+            style={{ display: "flex", borderColor: "#0a569e", borderWidth: 1, color: "black", borderRadius: "8px", justifyContent: "space-between", padding: "10px", backgroundColor:"#edf2f7"}}
                  >
                 <Text>Period {item.Period}</Text>
                 <Text>{item.Title}</Text>

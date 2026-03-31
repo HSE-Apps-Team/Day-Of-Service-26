@@ -18,7 +18,6 @@ import { LuSearch } from "react-icons/lu"
 import data from "../data.json"
 import { RiArrowLeftLine } from "react-icons/ri"
 import { useScreenContext } from "../contexts/ScreenContext"
-import EnrichingStudentsDirections from "../components/EnrichingStudentsDirections"
 import NotForSignup from "../components/NotForSignup"
 
 // FOR WHOEVER SEES THIS FILE WE ARE SORRY FOR THE HORRIBLE CODE BELOW, WE DID THIS IN A RUSH TO GET IT DONE IN TIME FOR THE DAY OF SERVICE.

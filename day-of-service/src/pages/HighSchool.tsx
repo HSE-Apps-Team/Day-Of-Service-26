@@ -146,7 +146,7 @@ const [isNarrow] = useMediaQuery(["(max-width: 850px)"]);
                  }}
             style={{ display: "flex", borderColor: "#0a569e", borderWidth: 1, color: "black", borderRadius: "8px", justifyContent: "space-between", padding: "10px"}}
                  >
-                <Text>Period {item.Period}</Text>
+                <Text>{isNarrow ? "P" : "Period "}{item.Period}</Text>
                 <Text>{item.Title}</Text>
                 <Text>{item.Teacher}</Text>
                 </Box>

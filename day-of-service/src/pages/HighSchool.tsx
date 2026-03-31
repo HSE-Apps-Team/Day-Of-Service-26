@@ -70,7 +70,7 @@ export default function HighSchool() {
       const matchesPeriod = period === "Any" || item.Period === period
       if (!matchesPeriod) return false
 
-      const matchesAgeGroup = ageGroup === "Any" || item["Age Group"] === ageGroup
+      const matchesAgeGroup = ageGroup === "" || item["Age Group"] === ageGroup
       if (!matchesAgeGroup) return false
 
       if (!q) return true

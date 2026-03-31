@@ -17,24 +17,6 @@
     --chakra-colors-gray-600: #4a5568;
 }
 
-[data-theme="dark"] {
-    --background: #171923;
-    --background-secondary: #1a202c;
-    --accent-background: #2d3748;
-    --text-primary: #edf2f7;
-    --text-secondary: #919dae;
-    --text-contrast: #171923;
-    --color-primary: #63b3ed;
-    --color-muted: #4299e1;
-    --color-light: #7ab7e6;
-    --color-dark: #033358;
-    --font-family: 'Segoe UI';
-    --chakra-colors-chakra-body-text: #fff9f3;
-    --chakra-colors-gray-800: #fff9f3;
-    --chakra-colors-gray-700: #fff9f3;
-    --chakra-colors-gray-600: #fff9f3;
-}
-
 
 
 #root {

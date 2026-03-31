@@ -3917,7 +3917,7 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts, C. Nunez",
+    "other_instructors": "T. Younts",
     "title": "Ag. CDE & LDE Prep",
     "location": "A128",
     "age_group": "hs",
@@ -3928,7 +3928,7 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts, C. Nunez",
+    "other_instructors": "T. Younts",
     "title": "Ag. CDE & LDE Prep",
     "location": "A128",
     "age_group": "hs",
@@ -3939,13 +3939,46 @@
   },
   {
     "teacher": "C. Mills",
-    "other_instructors": "T. Younts, C. Nunez",
+    "other_instructors": "T. Younts",
     "title": "Ag. CDE & LDE Prep",
     "location": "A128",
     "age_group": "hs",
     "max_students": "30",
     "period": "7",
     "description": "Agriculture CDE and LDE Prep - Come work on your projects!",
+    "department": "AP SCI"
+  },
+    {
+    "teacher": "C. Nunez",
+    "other_instructors": "",
+    "title": "Dairy",
+    "location": "",
+    "age_group": "hs",
+    "max_students": "",
+    "period": "5",
+    "description": "",
+    "department": "AP SCI"
+  },
+  {
+    "teacher": "C. Nunez",
+    "other_instructors": "",
+    "title": "AG Mech",
+    "location": "",
+    "age_group": "hs",
+    "max_students": "",
+    "period": "6",
+    "description": "",
+    "department": "AP SCI"
+  },
+  {
+    "teacher": "C. Nunez",
+    "other_instructors": "",
+    "title": "AG Mech",
+    "location": "",
+    "age_group": "hs",
+    "max_students": "",
+    "period": "7",
+    "description": "",
     "department": "AP SCI"
   },
   {

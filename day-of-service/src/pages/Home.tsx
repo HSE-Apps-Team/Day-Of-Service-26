@@ -1,26 +1,16 @@
 import {
     Container,
     Text,
-    InputGroup,
-    Input,
-    SegmentGroup,
-    Grid,
-    GridItem,
     Box,
     Button,
-    Image,
 }from "@chakra-ui/react"
 import { useScreenContext } from "../contexts/ScreenContext"
-import hseLogo from "../assets/hseLogo.png"
-import { ThemeContext } from "../contexts/themeContext";
-import { useContext } from "react";
 
 export default function Home() {
-    const theme = useContext(ThemeContext).theme.colors
     const { changeScreen } = useScreenContext();
     return (
         <>
-        <Text>Day of Service is a special day where students in HSE Schools participate in a plethora of unique activities at Hamilton Southeastern Highschool.</Text>
+        <Text style={{ fontFamily: "Poppins, sans-serif", padding: 10, fontSize: 12, color: "#656565ff", width: "500px", justifyContent: "center", alignSelf: "center" }}>Day of Service is a special day where students in HSE Schools participate in a plethora of unique activities at Hamilton Southeastern Highschool.</Text>
         <Container style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap" }}>
         <Box mt="4" style={{width: "30%", borderWidth: 1, borderRadius: 5, padding: 10}}>
             <Text fontWeight="bold" mb="2"> Elementary </Text>

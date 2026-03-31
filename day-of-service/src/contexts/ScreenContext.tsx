@@ -23,7 +23,6 @@ export const ScreenProvider = ({ children }: { children: ReactNode }) => {
             if (saved === 'light' || saved === 'dark') return saved;
             if (typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) return 'dark';
         } catch (e) {
-            // ignore - fallback to default
         }
         return 'light';
     });
@@ -31,13 +30,11 @@ export const ScreenProvider = ({ children }: { children: ReactNode }) => {
     const changeScreen = (screen: string) => setCurrentScreen(screen);
     const toggleTheme = () => setTheme((prev) => (prev === "light" ? "dark" : "light"));
 
-    // Keep the document's data-theme attribute in sync with our theme state
     useEffect(() => {
         try {
             document.documentElement.setAttribute('data-theme', theme);
             localStorage.setItem('theme', theme);
         } catch (e) {
-            // ignore errors (e.g., SSR or localStorage disabled)
         }
     }, [theme]);
     return (

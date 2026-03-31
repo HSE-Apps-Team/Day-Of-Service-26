@@ -1,4 +1,3 @@
-import React from 'react';
 import Home from '../pages/Home';
 import HighSchool from '../pages/HighSchool';
 import Intermediate from '../pages/Intermediate';

@@ -1,10 +1,7 @@
-import { useMemo, useState, useContext } from "react"
-import { ThemeContext } from "../contexts/themeContext"
-import hseLogo from "../assets/hseLogo.png"
+import { useMemo, useState } from "react"
 import {
   Box,
   Container,
-  Image,
   Input,
   InputGroup,
   SegmentGroup,
@@ -52,19 +49,15 @@ const records: DataItem[] = rawRecords.map((d) => ({
   Other: d.other_instructors || "None",
 }))
 const periodOptions = [ "1", "2", "3", "5", "6", "7"]
-const ageGroupOptions = [
-  "Any",
-  ...Array.from(new Set(records.map((r) => r["Age Group"]))),
-]
+
 
 export default function HighSchool() {
-  const theme = useContext(ThemeContext).theme.colors
   const { changeScreen } = useScreenContext();
   const [query, setQuery] = useState("")
   const [descriptionVisible, setDescriptionVisible] = useState(false)
   const [selectedItem, setSelectedItem] = useState<DataItem | null>(null)
   const [period, setPeriod] = useState("1")
-  const [ageGroup, setAgeGroup] = useState("hs")
+  const [ageGroup] = useState("hs")
 
   const selectItem = (item: DataItem) => {
     setSelectedItem(item)
@@ -98,12 +91,12 @@ export default function HighSchool() {
     <Button colorPalette="blue" variant="outline" width="100px" mb="4" onClick={() => changeScreen("home")}>
         <RiArrowLeftLine/>Home
       </Button>
-      <Text mb="2" style={{justifyContent: "center", alignSelf: "center", flex: 1}}>High School Opportunities</Text>
+      <Text mb="2" style={{justifyContent: "center", alignSelf: "center", flex: 1}}>High School Activities</Text>
       <Text width="100px"></Text>
       </Container>
       <Container style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", alignItems: "center" }}>
               <Box mt="4" style={{width: "30%"}}>
-                <Text mb="2">Filter by key words.</Text> 
+                <Text mb="2">Filter by key words</Text> 
             <InputGroup flex="1" colorPalette="blue" style={{width: "100%"}}startElement={<LuSearch />}>
               <Input
                 placeholder="Search by title, teacher, or location"
@@ -127,19 +120,6 @@ export default function HighSchool() {
               </SegmentGroup.Root>
             </Box>
             </Container>
-
-      {/* <Box mt="4">
-        <Text mb="2">Filter by Age Group</Text>
-        <SegmentGroup.Root
-          defaultValue={"Any"}
-          value={ageGroup}
-          onValueChange={(e) => e.value && setAgeGroup(e.value)}
-        >
-          <SegmentGroup.Indicator />
-          <SegmentGroup.Items items={ageGroupOptions} />
-        </SegmentGroup.Root>
-      </Box> */}
-
       <Box mt="6">
    <ScrollArea.Root height="400px" style={{marginTop: 10, padding: 10, marginBottom: 20}}>
             <ScrollArea.Viewport>

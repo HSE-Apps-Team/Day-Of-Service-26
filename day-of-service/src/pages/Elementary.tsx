@@ -89,7 +89,7 @@ export default function Elementary() {
     <>
       <Container padding="4" borderRadius="8px" mt="4">
                 <Container style={{  display: "flex", flexDirection: "row"}}>
-                <Button colorPalette="blue" variant="outline" width="100px" mb="4" onClick={() => changeScreen("home")}>
+                <Button color="#01539c" borderColor={"#01539c"} variant="outline" width="100px" mb="4" onClick={() => changeScreen("home")}>
                     <RiArrowLeftLine/>Home
                   </Button>
                   <Text mb="2" style={{justifyContent: "center", alignSelf: "center", flex: 1, fontFamily: "Poppins, sans-serif", fontSize: 20}}>Elementary Activities</Text>
@@ -98,7 +98,7 @@ export default function Elementary() {
       <Container style={{ display: "flex", justifyContent: "space-between", flexWrap: "wrap", alignItems: "center" }}>
               <Box mt="4" style={{width: "30%"}}>
                 <Text mb="2">Filter by key words</Text> 
-            <InputGroup flex="1" colorPalette="blue" style={{width: "100%"}}startElement={<LuSearch />}>
+            <InputGroup flex="1" style={{width: "100%"}}startElement={<LuSearch />}>
               <Input
                 placeholder="Search by title, teacher, or location"
                 value={query}

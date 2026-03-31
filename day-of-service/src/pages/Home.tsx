@@ -13,7 +13,7 @@ export default function Home() {
     return (
         <>
         <Text style={{ fontFamily: "Poppins, sans-serif", padding: 20, marginBottom: 50, fontSize: 14, color: "#656565ff", justifyContent: "center", alignSelf: "center", maxWidth: "500px" }}>Day of Service is a special day where students in HSE Schools participate in a plethora of unique activities at Hamilton Southeastern Highschool.</Text>
-        <Container style={{ display: "flex", justifyContent: isNarrow ? "center" : "space-between", flexWrap: "wrap", flexDirection: isNarrow ? "column" : "row", alignItems: isNarrow ? "center" : "stretch" }}>
+        <Container style={{ marginBottom: 50, display: "flex", justifyContent: isNarrow ? "center" : "space-between", flexWrap: "wrap", flexDirection: isNarrow ? "column" : "row", alignItems: isNarrow ? "center" : "stretch" }}>
         
         
         <Box mt="4" style={{width: isNarrow ? "100%" : "30%", maxWidth: "420px", borderWidth: 3, borderRadius: 5, padding: 10, height: "250px", borderColor: "#01539c"}}>

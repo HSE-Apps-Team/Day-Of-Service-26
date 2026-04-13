@@ -30,6 +30,7 @@ type DataItem = {
   Location: string
   "Age Group": string
   Description?: string
+  "Max Students"?: string
   Other?: string 
 }
 // `data.json` is an array of objects with lowercase keys (title, teacher, period, etc.).
@@ -52,6 +53,7 @@ const records: DataItem[] = rawRecords.map((d) => ({
   Period: String(d.period),
   Location: d.location,
   "Age Group": d.age_group,
+  "Max Students": d.max_students,
   Description: d.description,
   Other: d.other_instructors || "None",
 }))
@@ -178,8 +180,8 @@ const [isNarrow] = useMediaQuery(["(max-width: 850px)"]);
                 <>
                 <Text fontSize={20} marginBottom={10}>{selectedItem.Description || "No description available."}</Text>
                 <Text marginBottom={1}>Host's Name: {selectedItem.Teacher}</Text>
-                <Text marginBottom={1}>Department: {null}</Text>
-                <Text marginBottom={2}>Location: {selectedItem.Location}</Text>
+                <Text marginBottom={1}>Location: {selectedItem.Location}</Text>
+                <Text marginBottom={2}>Max Students: {selectedItem["Max Students"] || "Not specified"}</Text>
                 <Text>Other Teacher's Involved: {selectedItem.Other}</Text>
                 <NotForSignup />
                 </>

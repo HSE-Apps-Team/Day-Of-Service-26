@@ -1518,72 +1518,6 @@
     "department": "SCI"
   },
   {
-    "teacher": "Davis",
-    "other_instructors": "M. Self, L. Ann",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "1",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "M. Self, L. Ann",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "2",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "M. Self, L. Ann",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "3",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "M. Self, L. Ann",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "5",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "M. Self, L. Ann",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "6",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "Davis",
-    "other_instructors": "M. Self, L. Ann",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "7",
-    "description": "",
-    "department": ""
-  },
-  {
     "teacher": "T. Davis",
     "other_instructors": "H. Nieto, C. Kunz, A. Torres",
     "title": "Serenata Orchestra & Wind Symphony",
@@ -2573,10 +2507,10 @@
     "description": "",
     "department": "VA"
   },
-  {
+    {
     "teacher": "S. Herman",
     "other_instructors": "",
-    "title": "Physics Study Session - AP Exam Study Time",
+    "title": "Physics Club Meeting",
     "location": "F213",
     "age_group": "hs",
     "max_students": "28",
@@ -2606,10 +2540,10 @@
     "description": "",
     "department": "SCI"
   },
-  {
+    {
     "teacher": "S. Herman",
     "other_instructors": "",
-    "title": "Physics Club Meeting",
+    "title": "Physics Study Session - AP Exam Study Time",
     "location": "F213",
     "age_group": "hs",
     "max_students": "28",
@@ -3687,34 +3621,34 @@
   {
     "teacher": "J. McGrath",
     "other_instructors": "",
-    "title": "AP Seminar IMP Presentations",
+    "title": "AP Seminar Part B",
     "location": "J113",
     "age_group": "hs",
     "max_students": "30",
     "period": "1",
-    "description": "AP Seminar IMP Presentations: Since 90 of my seminar students have their individual presentation for their AP score, I plan to use a Day of Service Session to offer an additional presentation date.",
+    "description": "",
     "department": "ELA"
   },
   {
     "teacher": "J. McGrath",
     "other_instructors": "",
-    "title": "AP Seminar IMP Presentations",
+    "title": "AP Seminar Part B",
     "location": "J113",
     "age_group": "hs",
     "max_students": "30",
     "period": "2",
-    "description": "AP Seminar IMP Presentations: Since 90 of my seminar students have their individual presentation for their AP score, I plan to use a Day of Service Session to offer an additional presentation date.",
+    "description": "",
     "department": "ELA"
   },
   {
     "teacher": "J. McGrath",
     "other_instructors": "",
-    "title": "AP Seminar IMP Presentations",
+    "title": "AP Seminar Part B",
     "location": "J113",
     "age_group": "hs",
     "max_students": "30",
     "period": "3",
-    "description": "AP Seminar IMP Presentations: Since 90 of my seminar students have their individual presentation for their AP score, I plan to use a Day of Service Session to offer an additional presentation date.",
+    "description": "",
     "department": "ELA"
   },
   {
@@ -6644,72 +6578,6 @@
     "department": ""
   },
   {
-    "teacher": "M. Davis",
-    "other_instructors": "L. Self, B. Vinton",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "1",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "M. Davis",
-    "other_instructors": "L. Self, B. Vinton",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "2",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "M. Davis",
-    "other_instructors": "L. Self, B. Vinton",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "elementary",
-    "max_students": "30",
-    "period": "3",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "M. Davis",
-    "other_instructors": "L. Self, B. Vinton",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "5",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "M. Davis",
-    "other_instructors": "L. Self, B. Vinton",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "6",
-    "description": "",
-    "department": ""
-  },
-  {
-    "teacher": "M. Davis",
-    "other_instructors": "L. Self, B. Vinton",
-    "title": "Baking Cookies",
-    "location": "F122",
-    "age_group": "intermediate",
-    "max_students": "30",
-    "period": "7",
-    "description": "",
-    "department": ""
-  },
-  {
     "teacher": "M. Dunham",
     "other_instructors": "",
     "title": "Card Games",
@@ -7235,6 +7103,138 @@
     "max_students": "40",
     "period": "7",
     "description": "Current Students only",
+    "department": ""
+  },
+  {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "1",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "2",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "3",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "5",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "6",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "hs",
+    "max_students": "20",
+    "period": "7",
+    "description": "",
+    "department": ""
+  },
+  {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "elementary",
+    "max_students": "30",
+    "period": "1",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "elementary",
+    "max_students": "30",
+    "period": "2",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "elementary",
+    "max_students": "30",
+    "period": "3",
+    "description": "",
+    "department": ""
+  },
+      {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "intermediate",
+    "max_students": "30",
+    "period": "5",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "intermediate",
+    "max_students": "30",
+    "period": "6",
+    "description": "",
+    "department": ""
+  },
+    {
+    "teacher": "M. Davis",
+    "other_instructors": "L. Self, B. Vinton",
+    "title": "Baking Cookies",
+    "location": "A122",
+    "age_group": "intermediate",
+    "max_students": "30",
+    "period": "7",
+    "description": "",
     "department": ""
   }
 ]
